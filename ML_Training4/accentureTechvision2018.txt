@@ -1,0 +1,3221 @@
+REDEFINE
+YOUR
+COMPANY
+BASED
+ON THE
+COMPANY
+YOU KEEP.
+Accenture Technology Vision 2018
+Intelligent Enterprise Unleashed
+Pierre Nanterme,
+Chairman & CEO
+Paul Daugherty,
+Chief Technology & Innovation Officer
+Foreword
+We invite you to explore the Accenture Technology
+Vision 2018, our annual forecast of the technology
+trends unfolding in the next three years.
+With it, we present the important strategic
+shifts companies must make to unleash
+the unprecedented potential of the
+intelligent enterprise.
+We are working and living in a time
+of unparalleled technology innovation
+and invention. This technology revolution
+is marked by a series of exponential
+technological advances—including cloud,
+artificial intelligence, blockchain, augmented
+and virtual reality, internet of things, robotics,
+quantum computing, and more. Individually
+and collectively, these technologies represent
+vast potential for the future of business,
+and are creating the imperative to reinvent
+and reimagine the way we do business.
+This future also comes with broader
+responsibility. In producing this year’s
+report, the third in our People First series,
+we discovered a foundational shift in the
+role of enterprise, itself: It is moving closer
+to the center of people’s lives. As leading
+companies apply digital technologies and
+operate with ever-increasing intelligence,
+traditional boundaries between business and
+personal are dissolving. The very role of the
+enterprise in society is being redefined.
+Tomorrow’s leading companies are already
+moving beyond providing products and
+services. They are applying technology
+to create deeper, more meaningful
+relationships with people. They are creating
+new affiliations with businesses across
+industries who share their vision and mission.
+They are using these new partnerships to
+invent new products and services that meet
+the goals of their customers and employees
+and, in doing so, are achieving new levels
+of growth and differentiation. They are
+also helping their communities create new
+economic opportunities and develop new
+ways of serving and protecting citizens,
+benefitting society as a whole.
+Accenture’s year-long research into the
+technology trends driving this change resulted
+in this thought-provoking report: ”Intelligent
+Enterprise Unleashed: Redefine your company
+based on the company you keep.” Our forecast
+describes the widespread opportunities
+available to companies to use technology
+at each level of the enterprise—from strategy
+through operations—to improve performance
+and move closer to the center of people’s lives.
+Through innovation-led research,
+deep insights and powerful examples,
+the Accenture Technology Vision 2018 helps
+enterprises around the globe succeed and
+grow in this new era. We look forward to
+supporting your digital transformation and
+helping you unleash the potential of your
+intelligent enterprise.
+WELCOME
+2 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Contents
+Introduction 4
+Trend 1
+CITIZEN AI 19
+Raising AI to Benefit Business and Society
+Trend 2
+EXTENDED REALITY 29
+The End of Distance
+Trend 3
+DATA VERACITY 39
+The Importance of Trust
+Trend 4
+FRICTIONLESS BUSINESS 47
+Built to Partner at Scale
+Trend 5
+INTERNET OF THINKING 59
+Creating Intelligent Distributed Systems
+Research Methodology 68
+Survey Demographics 69
+References 72
+3 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Leveraging the rapid advancements in technology to
+create increasingly innovative products and services,
+businesses are driving unprecedented changes in
+the way people work and live.
+By embedding themselves throughout society, companies are blurring the lines
+between business and personal—and blazing a new trail for their own future growth.
+Technology is now firmly embedded throughout our everyday activities, but its
+reach is larger than that: it’s reshaping pieces of our society. This year’s Accenture
+Technology Vision trends highlight the rapid advancements in technologies that,
+in turn, are improving the ways people work and live.
+HOW DO
+YOU IMPROVE
+THE WAY
+PEOPLE WORK
+AND LIVE?
+Introduction
+There’s a new obligation—
+and a new opportunity—
+for companies to engage
+with people differently.
+Paul Daugherty | Chief Technology
+& Innovation Officer at Accenture
+4 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+GE is equipping field technicians with cutting-edge
+augmented reality glasses, changing the way workers
+engage with the physical world by giving them handsfree
+access to information, or allowing remote experts
+to see exactly what the technicians see as they repair
+wind turbines.1
+The Chinese education firm Liulishuo is
+changing education by introducing a new
+actor into society: a sophisticated artificial
+intelligence (AI)-powered English teacher
+that delivers personalized, adaptive learning
+to millions of people.2 And responding to the
+critical need for accurate information to feed
+the 24-hour news cycle, Thomson Reuters has
+developed an algorithm that uses streams of
+real-time data from Twitter to help journalists
+classify, source, fact-check, and debunk
+rumors faster than ever before.3
+Individually, each of these technology-driven
+efforts represents a company’s pursuit of
+the most creative or disruptive product or
+service. But their innovative efforts are part
+of a larger strategy: driving company growth
+by making technology inseparable—and
+indispensable—in how things get done.
+Businesses are using their products and
+services to reshape and reimagine how our
+society works, communicates, and even
+governs. According to the global Accenture
+Technology Vision 2018 survey, 84 percent
+of 6,381 business and IT executives surveyed
+agree that through technology, companies
+are weaving themselves seamlessly into
+the fabric of how people live today.
+Just look at Amazon’s efforts to embed itself
+into consumer households. Through the Echo
+and its AI assistant, Alexa, Amazon is managing
+not just shopping needs, but also the daily
+demands of busy lives. In fact, Amazon is
+so integrated into everyday living that new
+apartment complexes are building dedicated
+Amazon Lockers into their designs; and people
+now trust the company with physical access to
+their homes, letting couriers make deliveries
+when no one is around via Amazon Key
+and its smart lock system.4,5
+These changes are reaching beyond
+consumer spaces, as well. Tesla and other
+companies involved in automated driving
+are embedding themselves into the
+regulatory course for their own industries,
+partnering closely with governments to
+accelerate the development of guidelines
+needed for autonomous vehicles to operate
+at scale.6 In enterprise ecosystems, Siemens
+is embedding itself into its business partners’
+architectures. By offering the use of its
+MindSphere operating system for Internet
+of Things (IoT) manufacturing devices to
+anyone, Siemens is cementing itself as
+an integral part of the new IoT universe—
+and its tremendous societal reach.7
+5 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Introduction
+This level of integration is the next great
+societal evolution. The same way cities were
+built around railroads, or people rebuilt
+their lives around electricity, the world is
+reimagining itself not just around digital
+innovation but, by extension, around the
+companies that provide those services.
+Of course, society has rebuilt itself around
+technological disruption many times before,
+and will no doubt do so again. But this latest
+transformation is unique: for the first time in
+a technological transformation, the change
+is a two-way street. People aren’t just
+using companies’ products and services,
+but feeding information and access back to
+them. To deliver such “integrated innovation,”
+companies need a profound level of insight
+and impact into people’s lives, and their
+partners’ business. Savvy organizations
+are realizing that this level of connection—
+and this degree of trust—will require a new
+type of relationship. It’s not just business;
+it’s personal. And it’s how leaders will
+redefine their company, based on the
+company they keep.
+6 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Introduction
+NEW EXPECTATIONS:
+READING THE
+LABELS OF
+ENTERPRISE
+In a world where everything is connected, the lines that
+have traditionally separated our society into neat little
+boxes of customers, employees, citizens, companies,
+and even governments, are blurring.
+Increasingly, in exchange for the access and
+impact they allow companies to have in their
+lives, people expect partnerships, based not
+only on a company’s products, but its goals,
+and its values. In short: people are “reading
+the labels” of enterprise—and companies
+must define those labels for themselves,
+or have the labels determined for them.
+These new expectations are creating a strain
+on businesses that have introduced innovative
+platforms and services. It’s a parallel to the
+innovative startups that sprang up during the
+dot-com era, only to be forced to take a step
+back and flesh out traditional business models:
+companies that have quickly innovated their
+way into society are now being pushed to
+develop clear expectations for how those
+societal interactions will play out.
+Years ago, Uber pioneered a new model for
+working with drivers, upending transit and
+transportation models. Now, as it has evolved
+its business model and relationships with
+local communities, the company is working
+to address corporate responsibility in its
+interactions with drivers, customers,
+and regulatory organizations.
+The premium that people, governments,
+and business partners put on these labels
+of enterprise stems from the responsibilities
+that two-way partnerships create. When
+those responsibilities aren’t met, the results
+are worse than disappointed customers:
+the failure creates a society disillusioned
+with the integrated innovation model that
+businesses rely on to grow.
+7 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Introduction
+Security failures at Equifax resulted in
+a theft of personal information that will
+impact hundreds of millions of lives for
+decades to come—including individuals
+who had no explicit business relationship
+with Equifax.8 Rebuilding the trust required
+to sustain partnerships with consumers,
+governments, and the general public
+will be a massive undertaking.
+The magnitude of these challenges will only
+grow as additional revolutionary technologies
+begin to reach maturity in the coming years,
+and accelerate technology-driven societal
+change. Quantum computing has the potential
+to break the cryptographic standards that
+underpin the world’s financial systems;
+new workforce models and platforms are
+shredding the long-accepted understanding
+of the term “employee”; and as AI grows in
+capability and reach, there will be large-scale
+failures and scandals around improper
+use of the technology.
+It’s clear that both individuals and society as
+a whole will have to create new partnerships
+to deal with the impact of such revolutionary
+changes—but the role that companies will play
+remains an open question. How responsible is
+a company whose secure encryption is broken
+because of advances in quantum technology?
+How much blame should a business take if one
+of its partners uses AI to make decisions in a
+way that’s biased, or invades people’s privacy?
+There’s a reason why tech giants are
+growing more vocal and active around
+societal questions, like debates over access
+and privacy—because actions will define
+these enterprise labels. Apple went so far
+as to refuse to give the US government the
+capability to decrypt the data on an iPhone,
+and devoted significant time and resources
+to explaining its decision to the public.9
+That level of discourse was no accident:
+it’s demonstrating what the company will
+and won’t do as part of their partnerships with
+customers, governments, and the public—
+and the first step on a path toward defining
+a formalized corporate social contract.
+8 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Introduction
+DEFINING THE
+CORPORATE
+SOCIAL
+CONTRACT
+While new expectations driven by a shifting technology
+landscape can be daunting, pioneering companies have
+recognized that these new societal expectations can
+be transformed into an enterprise strength.
+They’re using their increased and
+embedded technology interactions to
+lean in and build deeper partnerships
+with customers, employees, governments,
+and the public. By explicitly defining the
+nature of their partnerships, these leading
+companies are also defining the new
+corporate social contract.
+Creating a consistent set of principles around
+their relationships will help companies meet
+raised expectations. But it’s also becoming
+a key piece of empowering the business
+to innovate and grow. The commitments a
+company makes to partnership will become
+the “nutritional value” information that people
+are searching for; as companies build and
+extend their ecosystems, individuals and
+organizations with goals and ideals that
+match their own will be natural partners.
+Ultimately, companies will create the “terms
+and conditions” for their constellations of
+relationships within the connected society—
+and create a clear path for their future growth.
+The nature and scope of these new terms
+and conditions will vary with the type of
+partnership, whether it’s with customers,
+employees, governments, or the public.
+So, too, will the opportunities for growth
+from putting them in place.
+L’Oréal, the cosmetics company, is paving the
+way. To continually operate as a good partner
+with society, the company wrote a strict ethical
+charter that was drafted in collaboration with
+French government agencies and international
+ethics organizations.10 Importantly, the charter
+serves as a decision-making framework
+across nearly every aspect of L’Oréal.
+Guided by the charter, L’Oréal also requires
+that potential suppliers commit to an equally
+strict set of ethical standards, and guides
+internal buyers through steps to ensure
+they are purchasing from suppliers who
+meet that code.
+9 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Introduction
+To partner with the public, the charter
+established tenets around environmental
+responsibility: the company has reduced
+carbon emissions by 67 percent, only
+purchases palm oil from sustainably
+managed forests, and invested in building
+“dry” factories that will only use recycled
+water—set to appear in 2018. Jean-Paul Agon,
+L’Oréal’s Chairman and CEO, reiterates that
+these changes are mandated not merely
+by conscience, but also by business need.
+“The next 10 years will see ethics becoming
+no longer a ‘nice to have,’ but a fundamental
+prerequisite to any organization’s license to
+operate. For companies that are leaders in this
+area, it will become a competitive advantage.”11
+Just as important as partnering with
+customers, treating employees as invested
+allies will define company culture, and create
+a sustainable foundation on which to innovate
+and execute. Internal research at AT&T found
+that nearly half of its 240,000 workers were in
+roles that the company would no longer need
+in a decade’s time.12 They also found that
+only half of their staff had training in science,
+technology, engineering, and math (STEM),
+while the projected need for those skills
+would reach 95 percent of the workforce
+by 2020. In response, AT&T’s billion-dollar
+Workforce 2020 initiative aims to retrain
+and prepare a quarter of its workforce for
+radically new jobs. In 2016, the company
+filled more than 40 percent of open
+positions with internal candidates.
+In defining the responsibilities it will accept
+with each type of partnership, the enterprise
+can define a new corporate social contract—
+setting the guideposts for its path forward.
+10 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Introduction
+of executives agree that through
+technology, companies are
+weaving themselves seamlessly
+into the fabric of how people
+live today.
+84%
+EMBEDDING
+OPPORTUNITY
+As companies have reached further than ever into
+people’s lives, they’ve shaped society around their
+products and services. This transformed society
+now provides the new foundation for each
+company’s future growth.
+Through new partnerships with customers, employees, partners, and even governments,
+companies are empowered to build ever-stronger access and trust. This trust will give
+companies the inroads to further embed themselves into society, becoming ever more
+indispensable—and empowering their own revolutionary growth. (See Figure 1.)
+11 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Introduction
+CUSTOMERS
+EMPLOYEES
+PARTNERS
+GOVERNMENTS
+BUSINESS
+Empowering Future Growth
+Building Access and Trust with Technology
+Figure 1—
+Positive Feedback Loop.
+12 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Introduction
+Technology-based products and services have a
+tremendous impact on the way people work and live.
+Through those products and services, businesses
+are driving unprecedented change in society.
+This year’s Accenture Technology Vision highlights five emerging trends shaping the
+way technology is increasing businesses’ impact across society. But in exchange for
+the unprecedented access and influence businesses enjoy today, people are demanding
+more responsibilities from them. In each chapter, you will see how expectations are
+growing, as customers, employees, business partners, governments, and more,
+seek formalized partnerships with businesses.
+INTELLIGENT
+ENTERPRISE
+UNLEASHED
+2018 Tech Trends
+13 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Introduction
+As artificial intelligence grows in its
+capabilities—and its impact on people’s
+lives—businesses must move to “raise”
+their AIs to act as responsible, productive
+members of society.
+Trend 1
+CITIZEN AI
+Raising AI to Benefit
+Business and Society
+Virtual and augmented reality technologies
+are removing the distance to people,
+information, and experiences, transforming
+the ways people live and work.
+By transforming themselves to run on data,
+businesses have created a new kind of
+vulnerability: inaccurate, manipulated,
+and biased data that leads to corrupted
+business insights, and skewed decisions
+with a major impact on society.
+Businesses depend on technology-based
+partnerships for growth, but their own
+legacy systems aren’t designed to support
+partnerships at scale. To fully power the
+connected Intelligent Enterprise, companies
+must first re-architect themselves.
+Businesses are making big bets on intelligent
+environments via robotics, AI and immersive
+experiences. But to bring these intelligent
+environments to life, they must extend their
+infrastructures into the dynamic, real-world
+environments they want to reach.
+Trend 2
+EXTENDED
+REALITY
+The End of Distance
+Trend 3
+DATA
+VERACITY
+The Importance of Trust
+Trend 4
+FRICTIONLESS
+BUSINESS
+Built to Partner at Scale
+Trend 5
+INTERNET
+OF THINKING
+Creating Intelligent
+Distributed Systems
+14 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Introduction
+As part of Accenture’s multi-year perspective on
+technology’s impact on enterprise, these trends
+reflect the continuously evolving digital culture
+that creates challenges and opportunities
+for organizations worldwide.
+Since the dawn of the digital era, businesses have been doing more with each passing
+year: Becoming digital themselves; growing more involved in people’s lives; embracing
+the “People First” view of the changing enterprise landscape. Now we’re at a point of
+fusion: businesses are looking to reshape society, and can’t do it alone. Partnerships
+with people are the clear path forward for every business, and for society as a whole.
+Each year’s individual Vision trends highlight new or evolving technologies and their
+emerging impact across enterprise. Some technologies are already playing important
+roles in the strategies of leading companies, while others are just beginning to emerge as
+difference-makers. Viewed as a whole, our Technology Vision trends provide a guidepost
+for the way companies must consider their resources, responsibilities, and opportunities
+for success in the years to come.
+With businesses shaping change throughout the world, being a leader isn’t just about
+incorporating new technologies. It’s about the ways you partner throughout everyday
+life with people to improve lives and shape society—and in so doing, build the
+foundation on which you’ll continue to grow.
+This new era is all about how we can
+use these ties and information that
+we have about companies—and they
+have about us—to change the way
+that we work together.
+Michael Biltz | Managing Director,
+Accenture Technology Vision—Accenture Labs
+15 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Introduction
+2018 Trend 1
+CITIZEN AI
+Trend 2
+EXTENDED
+REALITY
+Trend 3
+DATA
+VERACITY
+Trend 4
+FRICTIONLESS
+BUSINESS
+Trend 5
+INTERNET OF
+THINKING
+2017 Trend 1
+AI IS THE
+NEW UI
+Trend 2
+ECOSYSTEM
+POWER PLAYS
+Trend 3
+WORKFORCE
+MARKETPLACE
+Trend 4
+DESIGN FOR
+HUMANS
+Trend 5
+THE
+UNCHARTED
+2016 Trend 1
+INTELLIGENT
+AUTOMATION
+Trend 2
+LIQUID
+WORKFORCE
+Trend 3
+PLATFORM
+ECONOMY
+Trend 4
+PREDICTABLE
+DISRUPTION
+Trend 5
+DIGITAL
+TRUST
+The current three-year set of technology trends
+relating to Accenture’s Technology Vision includes
+these reports from 2017 and 2016:
+Accenture’s Technology Vision comprises a three-year set of technology trends, and it’s
+important to recognize that this year’s trends are part of a bigger picture. As companies
+continue to grow as digital businesses, they will need to keep up with the latest technologies,
+as well as continue to master those that have been maturing. These technologies will
+collectively inform how enterprises build the next generation of business, and create
+paths toward future growth. To reference the papers behind the full set of trends below
+(See Figure 2), please go to the 2016, 2017 and 2018 Technology Vision webpages.
+Completing the Picture
+Figure 2—
+Evolution Chart.
+16 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Introduction
+Artificial intelligence (AI) is about to become your company’s
+digital spokesperson. Moving beyond a backend tool for the
+enterprise, AI is taking on more sophisticated roles within
+technology interfaces. From autonomous driving vehicles
+that use computer vision, to live translations made possible
+by artificial neural networks, AI is making every interface
+both simple and smart—and setting a high bar for how future
+interactions will work. It will act as the face of a company’s
+digital brand and a key differentiator—and become a core
+competency demanding of C-level investment and strategy.
+Companies are increasingly integrating their core business
+functionalities with third parties and their platforms. But rather
+than treat them like partnerships of old, forward-thinking
+leaders leverage these relationships to build their role in new
+digital ecosystems—instrumental to unlocking their next
+waves of strategic growth. As they do, they’re designing
+future value chains that will transform their businesses,
+products, and even the market itself.
+The future of work has already arrived, and digital leaders are
+fundamentally reinventing their workforces. Driven by a surge
+of on-demand labor platforms and online work management
+solutions, legacy models and hierarchies are being dissolved
+and replaced with open talent marketplaces. This resulting
+on-demand enterprise will be key to the rapid innovation and
+organizational changes that companies need to transform
+themselves into truly digital businesses.
+What if technology adapted to you? The new frontier
+of digital experiences is technology designed specifically
+for individual human behavior. This shift is transforming
+traditional personalized relationships into something much
+more valuable: partnerships. Business leaders recognize that
+as technology shrinks the gap between effective human and
+machine cooperation, accounting for unique human behavior
+expands not only the quality of experience, but also the
+effectiveness of technology solutions.
+Businesses are not just creating new products and services;
+they are shaping new digital industries. To fulfill their digital
+ambitions, companies must take on a leadership role to help
+shape the new rules of the game. Those who take the lead
+will find a place at or near the center of their new ecosystem,
+while those that don’t risk being left behind. From technology
+standards to ethical norms to government mandates, in an
+ecosystem-driven digital economy, one thing is clear: a wide
+scope of rules still needs to be defined.
+2017
+Trend 1
+AI IS THE
+NEW UI
+Experience Above All
+Trend 2
+ECOSYSTEM
+POWER PLAYS
+Beyond Platforms
+Trend 3
+WORKFORCE
+MARKETPLACE
+Invent Your Future
+Trend 4
+DESIGN FOR
+HUMANS
+Inspiring New Behaviors
+Trend 5
+THE
+UNCHARTED
+Invent New Industries,
+Set New Standards
+17 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Introduction
+Leaders will embrace automation not just to take advantage
+of the breakneck pace of digital change, but also to create
+a new digital world where they hold competitive advantage.
+Machines and artificial intelligence will be the newest recruits
+to the workforce, bringing new skills to help people do new
+jobs, and reinventing what’s possible.
+Companies are investing in the tools and technologies they
+need to keep pace with constant change in the digital era.
+But to achieve their ambitious goals, leaders are refocusing
+on an often overlooked factor: the workforce. They are looking
+at technology as not just a disrupter, but also an enabler to
+transform their people, projects, and entire organizations
+into a highly adaptable and change-ready enterprise. In short,
+business leaders are realizing their new liquid workforce can
+become their new competitive advantage.
+Industry leaders are unleashing technology’s power by
+developing not only new technology platforms, but also the
+platform-based business models and strategies they enable.
+But the technology changes are only the beginning.
+Fast-emerging digital ecosystems—think precision
+agriculture, the industrial Internet or smart cities—create
+the foundation for the next big wave of enterprise disruption.
+Digital ecosystems like these, and the businesses that
+power them, are straddling markets and blurring
+industry boundaries.
+To gain the trust of individuals, ecosystems, and regulators in
+the digital economy, businesses must possess strong security
+and ethics at each stage of the customer journey. And new
+products and services must be ethical—and secure-by-design.
+Businesses that get this right will enjoy such high levels
+of trust that their customers will look to them as guides
+for the digital future.
+2016
+Trend 1
+INTELLIGENT
+AUTOMATION
+The Essential New
+Coworker for the
+Digital Age
+Trend 2
+LIQUID
+WORKFORCE
+Building the Workforce
+for Today’s Digital
+Demands
+Trend 3
+PLATFORM
+ECONOMY
+Technology-Driven
+Business Model Innovation
+from the Outside In
+Trend 4
+PREDICTABLE
+DISRUPTION
+Looking to Digital
+Ecosystems for the
+Next Waves of Change
+Trend 5
+DIGITAL
+TRUST
+Strengthening Customer
+Relationships through
+Ethics and Security
+18 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Introduction
+CITIZEN AI
+Raising AI to Benefit
+Business and Society
+Trend 1
+19 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+With artificial intelligence (AI) growing in its reach
+throughout society, any business looking to capitalize
+on AI’s potential must also acknowledge its impact.
+Much more than just a technological tool,
+AI has grown to the point where it often has
+as much influence as the people putting it
+to use, both within and outside the company.
+For businesses, this means deploying AI is
+no longer just about training it to perform a
+given task. It’s about “raising” it to act as a
+responsible representative of the business,
+and a contributing member of society.
+Researchers at New York’s Icahn School
+of Medicine at Mt. Sinai have a unique
+collaborator in the hospital: their in-house
+AI system, affectionately known as
+Deep Patient. Armed with an analysis of
+electronic health records from 700,000
+patients, Deep Patient taught itself to
+predict risk factors for 78 different
+diseases—and doctors now turn to
+the system to aid in diagnoses.1
+Deep Patient may not be a person, but it’s
+more than just a program. Artificially intelligent
+systems learn, make autonomous decisions,
+and have grown from a technological tool to
+a partner among people, coordinating and
+collaborating with humans in the workforce
+and society. With increasing autonomy and
+sophisticated capabilities, AI now often has
+as much influence as the people putting it
+to use. According to our survey, four out of
+five executives (81 percent) believe within the
+next two years, AI will work next to humans
+in their organizations, as a co-worker,
+collaborator and trusted advisor.
+Already, AI-based solutions help fashion
+stylists at San Francisco-based Stitch Fix
+curate customers’ outfits, and assist claims
+adjustors at Ant Financial Insurance in China
+in making insurance payout decisions.2,3
+An AI system even has a position on the
+leadership team at the Nordic software
+maker, Tieto, where the company looks to its
+AI, called “Alicia T,” to help the team become
+more data driven.4 For some organizations,
+AI is already the public face of the business,
+handling everything from initial interactions
+via chat, voice, and email, through to filling
+vital customer service roles. And these
+roles will only grow: IDC forecasts that
+global corporate spending on cognitive/
+AI systems will increase at a 54 percent
+compound annual growth rate (CAGR)
+between 2015 and 2020.5
+Deep Patient
+taught itself
+to predict risk
+factors for
+78 diseases.
+20 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 1 Citizen AI
+As AI-based decisions have increasing impact
+on human lives, a new imperative becomes
+clear: just as parents hope to raise children
+who act responsibly and communicate
+effectively, businesses now need to “raise”
+their AI systems so that they reflect business
+and societal norms of responsibility, fairness
+and transparency. Many enterprises still
+treat AI as a technology tool, but no one
+would expect a tool to “act” responsibly,
+to explain its decisions, or work well with
+others. But with AI systems making decisions
+that affect people, companies must teach
+AI to do these things, and more.
+By taking on a new responsibility of “raising”
+AI, companies can create portfolios of AI
+systems with varied skills. Once AIs are trained,
+these skills can be redirected throughout the
+workforce as needed, and remain available
+to the company as long as it needs them.
+These carefully raised AIs will not only be
+able to scale operations, but also adapt to
+new needs via feedback loops from other
+deployed models—similar to how continuing
+education enables employees to adapt to new
+tasks. By treating AI in a way that recognizes
+the impact it now has in society, companies
+can create a collaborative and powerful
+new member of the workforce.
+21 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 1 Citizen AI
+AI is a collection of advanced technologies that allows
+machines to sense, comprehend, act, and learn.
+In the past, this kind of performance
+was driven by rules-based data analytics
+programs, statistical regressions, and early
+“expert systems.” But the explosion of
+powerful deep neural networks now gives
+AIs something a mere program doesn’t
+have: the ability to do the unexpected.
+For businesses, this means changing the
+way they view AI, from systems that are
+programmed, to systems that learn. Education
+isn’t about teaching someone to do one task,
+but about learning how to approach and solve
+problems. Researchers at Carnegie Mellon
+University developed a training method that
+lets an aerial drone teach itself to recognize
+and track a specific car; however, the same
+method can also be applied to other tasks,
+like remote pipeline inspection.6
+This is the approach businesses must now
+take with AI. AIs built as programs are useful
+for a finite set of tasks; learning-based
+AIs have a much wider repertoire and are
+more likely to grow into collaborators and
+colleagues—ones that remain a constant
+member of the workforce.
+Raising AI requires addressing many of the
+same challenges faced in human education
+and growth: fostering an understanding
+of right and wrong, and what it means to
+behave responsibly; imparting knowledge
+without bias; and building self-reliance while
+emphasizing the importance of collaborating
+and communicating with others. To meet this
+new responsibility of raising AI, companies
+can look to milestones of human development
+for guidance: first, people learn how to learn,
+then they rationalize or explain their thoughts
+and actions, and eventually they accept
+responsibility for their decisions.
+TEACHING
+SOFTWARE
+TO LEARN
+22 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 1 Citizen AI
+To meet this new responsibility
+of raising AI, companies can
+look to milestones of human
+development for guidance.
+23 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 1 Citizen AI
+Driving Learning Through Data Iterations
+AI systems are finding ever-wider
+application across the enterprise as they
+grow in sophistication. No matter the
+particular type of AI being used, however,
+every application begins with large
+amounts of training data.
+Imagine a machine learning system
+designed to find a dog in a picture and
+decipher the breed. Tens of thousands of
+“labeled” images are needed: one set will
+teach the system to pick out dogs in a picture,
+while other sets of images will distinguish
+individual breeds. In supervised learning,
+images are hand-tagged to tell the system
+not only where the pet is in the image,
+but also the breed of the pet.
+Modern advancements in parallel processing
+(see Internet of Thinking, Trend 5) and AI
+algorithms have unlocked the potential of
+deep neural networks. Inspired by the myriad
+neural connections of the brain, deep neural
+networks can learn enormous stores of data,
+even if it’s “noisy.” As part of their learning
+process, these algorithms teach themselves
+new ways of connecting data—meaning
+deep neural network AIs can continually
+scale and improve their capabilities.
+Yet another advance is in reinforcement
+learning, where the AI becomes its own
+teacher, with no need for human supervision.
+DeepMind’s AlphaGo Zero AI taught itself the
+game of Go without knowing any of the rules
+beforehand. In a matter of days, AlphaGo
+Zero had become the world’s best Go player,
+beating one of its own AI predecessors
+100 games to none—the same predecessor
+that had previously beat the world’s most
+formidable human Go player.7
+The more data an AI is given, the better its
+predictions become. Learning-based AIs
+use the data to build a model, which is then
+checked against test data for success across
+a variety of factors. In the pet and breed
+identification example above, a test data
+set could include an image of multiple pets
+against a complex or “noisy” background.
+When a model achieves a desired level of
+accuracy, it can be used in a production
+environment. (See Figure 3.)
+24 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 1 Citizen AI
+Figure 3—
+AI: From Machine Learning to Deep Neural Networks and Beyond.
+Artificial Intelligence
+AI is a collection of advanced technologies that allows machines to sense, comprehend, act, and learn.
+Machine Learning
+A branch of AI that provides systems with the ability to learn without being explicitly programmed.
+Most commonly, machine learning algorithms are data-driven learning systems employed to classify
+new data assets into a target set of categories.
+Supervised Learning
+Machine learning algorithms that make
+use of labeled training data. Labeled data
+is where we have positive and negative
+examples of the target categories.
+For example, if a system is distinguishing
+cats from dogs in pictures, each picture
+would be “labeled” as containing
+either a cat or a dog.
+Unsupervised Learning
+Machine learning algorithms that are
+used when only unlabeled data is available.
+One technique such systems use is clustering
+—grouping similar items together without
+assigning the members of the cluster to
+a predefined category. This often yields
+categories and connections a human
+would not discover on their own.
+Decision Trees
+A tree-like model that attempts to build an exhaustive representation of all possible decisions and their
+associated consequences within a particular domain. Each node represents a test or question, each
+branch is an outcome of that test/question, and each leaf node is either a decision or a label. The goal
+of using decision trees is to achieve perfect classification with a minimal number of decisions.
+Deep Learning
+Also known as deep artificial neural networks, this subset of machine learning attempts to mimic
+the non-linear connections of neurons in the human brain to recognize patterns in images,
+sounds, and other data. In the fields of machine vision and natural language processing, deep
+learning has been responsible for many recent advancements.
+Reinforcement Learning
+Instead of explicitly labeling data, reinforcement algorithms learn by receiving rewards—reinforcement.
+In a game situation, for example, the reward might be winning the game. The algorithm can then
+play the game against itself millions of times to gain expertise. Sometimes humans need to decide
+whether the algorithm receives an award, but human participation is generally minimal.
+Note: The techniques described here are a small subset of advanced AI techniques being used
+today; these were chosen to give more context to terms and concepts used throughout this trend.
+25 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 1 Citizen AI
+Creating the AI Curriculum
+With a successfully trained and raised AI,
+a company essentially creates a new worker
+—one that can be scaled across operations.
+But where to begin? With data—the right
+data, and a lot of it.
+As children learn to communicate,
+they often use symbols and signs before
+words—but ultimately, they must achieve
+the taxonomy of a language to scale their
+understanding of the world. Similarly, a
+company’s AI starts from basic principles,
+but progressively builds its skills from set
+taxonomical structures. The companies
+with the best data available to teach
+an AI how to do its job will create the
+most capable AI systems.
+Google recently released an open source
+data set that helps companies teach their
+AI to understand how people speak. To create
+a data set that would adequately prepare an
+AI to understand just 30 words in a single
+language, Google recorded 65,000 clips of
+those words being spoken, from thousands
+of different people.8 This is the scale of
+training data that has enabled Google’s voice
+recognition to reach 95 percent accuracy.9
+Companies must also ensure there is an
+accepted background of understanding for
+the AI and others it will be communicating
+with, whether customers and employees,
+or other artificially intelligent systems.
+A business’s data scientists must use care
+when selecting taxonomies and training
+data—it’s not just about scale, but about
+actively minimizing bias in the data.
+Researchers at the University of Virginia
+trained an AI on a widely used photo data
+set. They discovered that the AI amplified
+predictable gender biases found in the
+photos—going so far as to categorize a
+man standing next to a stove as a woman.10
+Companies must also build provenance into
+the library of models they are assembling and
+sharing—keeping a link between a portable
+model and the data used to train the model.
+When data inputs are curated to minimize
+bias, and well documented, organized,
+and properly labeled, companies will build
+a strong library of AI models ready for reuse.
+26 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 1 Citizen AI
+Explainable AI
+In business and society, being able to
+explain the process used to arrive at a
+decision can be critical. Given that an
+AI system is fundamentally designed to
+collaborate with people, companies must
+build and train their AIs to provide clear
+explanations for the actions the AI systems
+decide to take, in a format that people
+understand. Executives realize this:
+88 percent of those we surveyed agree
+that it is important for employees and
+customers to understand the general
+principles used to make AI-based
+decisions by their organizations.
+Drive PX, NVIDIA's AI-infused self-driving
+car platform, can “teach” itself to drive—
+but until recently, the way it did so was a
+mystery.11 In an effort to improve the system,
+NVIDIA engineers prioritized opening the
+AI black box, and developed a way to get a
+Drive PX vehicle to visually explain its driving
+style. The platform does so by displaying a
+video of a recently driven streetscape, over
+which it then highlights areas that it gave the
+most weight to during navigation. In another
+example, Capital One is researching ways to
+make AI more explainable, hoping to use it to
+review credit card applications since banking
+regulations require that financial companies
+furnish an explanation to customers when
+their applications are denied.12
+Government policymakers are considering
+rules to govern the decision-making aspect
+of AIs, too. The spirit of the European Union’s
+General Data Protection Regulations, which
+take effect in 2018, gives individuals a
+“right to explanation” for decisions made
+by AIs and other algorithms.13
+Responsible AI
+Finally, businesses must raise AI systems to
+act responsibly. Regardless of the exact role
+an AI ends up playing in society, it represents
+its company in every action that it takes.
+What happens if an AI-powered mortgage
+lender denies a loan to a qualified prospective
+homebuyer, or if an AI-guided shelf-stocking
+robot runs into a worker in a warehouse?
+The companies using the technology
+must think carefully about apportioning
+responsibility and liability for its actions.
+Audi has announced that the company will
+assume liability for accidents involving its
+2019 A8 model when its “Traffic Jam Pilot”
+automated system is in use.14 And the German
+federal government has adopted ahead-ofthe-
+curve rules around the way autonomous
+cars should act in an unavoidable accident:
+the cars must choose material damage over
+hurting people, and cannot discriminate
+on the basis of gender, age, or race.15
+88 percent of
+executives agree
+that it is important
+for employees
+and customers
+to understand the
+general principles
+used to make AIbased
+decisions by
+their organizations.
+27 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 1 Citizen AI
+As AI becomes more firmly and widely integrated
+into society, it will have direct influence and impact
+on everything from financial decisions, to health,
+to criminal justice, and beyond.
+As these impacts expand, the business
+responsibilities around raising an AI will only
+grow. The European Parliament is already
+considering giving machines or robots
+with AI capabilities a limited “e-personality,”
+comparable to the “corporate personality”
+that is used to assess liabilities or damages.16
+Businesses that hesitate to consider their
+AIs as something that must be “raised” to
+maturity will be left struggling to catch up
+with new regulations and public demands
+—or worse, have strict regulatory controls
+placed upon the entire AI industry for failure
+of the group to take responsibility.
+Leaders will take on the challenge of raising
+an AI in a way that acknowledges its new
+roles and impact in society. In doing so,
+they’ll set the standards for what it means to
+create a responsible, explainable AI system.
+Moreover, they’ll build trust with customers
+and employees, who are understandably
+wary of intelligent but opaque systems
+making decisions that directly affect their
+lives. Responding to our survey, 72 percent
+of executives report that their organizations
+seek to gain customer trust and confidence
+by being transparent in their AI-based
+decisions and actions. This will be a
+crucial step in the integration of AI into
+society. We call it “Citizen AI.”
+PREPARING
+FOR MORE
+Conclusion
+of executives report that their
+organizations seek to gain
+customer trust and confidence
+by being transparent in their
+AI-based decisions and actions.
+72%
+28 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 1 Citizen AI
+EXTENDED
+REALITY
+The End of Distance
+Trend 2
+29 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Immersive experiences are changing the way people
+connect with information, experiences, and each other.
+Through virtual and augmented reality, extended reality
+is the first technology to “relocate” people in time and
+space—and it’s bringing about the end of distance.
+Real estate company Redfin made its name
+by embracing technology, so it’s no surprise
+that the company has adopted virtual reality
+(VR) to sell homes. Powered by technology
+from Matterport, Redfin’s 3D, real-world
+listings can be “toured” without ever setting
+foot on the property.1 Meanwhile, startup
+roOomy helps sellers stage homes virtually,
+and lets buyers create their own designs
+using furniture and décor from retailers
+like Wayfair and Pottery Barn, offering
+immediate purchases through the roOomy
+app.2 For properties under development,
+VR startup Virtual Xperience lets builders show
+and sell “pre-construction” projects, inviting
+potential buyers to experience the completed
+space from anywhere—
+even if all that exists
+today is an empty lot.3 As these virtual sales
+techniques take off, the traditional Sunday
+open house may soon become a relic.
+These and other forays into extended reality
+(XR) are solving a tactical pain point that
+customers and businesses share: distance.
+Companies across industries, and even entire
+industries, have been built around the most
+basic and intractable principle of “needed
+here, but exists there.” This challenge impacts
+everyone, from people with busy schedules
+trying to buy groceries, to companies
+struggling with talent shortages because
+the locally available skills don’t match their
+needs. Results from our Technology Vision
+2018 survey show 36 percent of executives
+identify removing distance barriers as
+a driver in their adoption of XR solutions.
+Companies are increasingly turning to XR
+as a new way to address problems around
+distance. Immersive experience provider
+Matterport experienced a 186 percent
+compound annual growth rate (CAGR) from
+2014 to 2016; similarly, VR education-focused
+firm zSpace saw a 128 percent CAGR during
+this timeframe.4,5 This early growth portends
+a much larger impact for these technologies.
+From VR real estate to virtualized education,
+the fundamental changes to the enterprise
+and society are clear: the importance of place
+is disappearing. XR is removing the hurdle
+of distance, increasing access to people,
+information, and experiences.
+(See Figure 4, page 34.)
+30 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 2 Extended Reality
+FOR SALE
+Virtual
+Reality (VR)
+VR visually takes the
+user out of their real-world
+environment and into a
+virtual environment, typically
+using a headset for viewing
+coupled with hand-held
+controllers to navigate
+the virtual space.
+Augmented
+Reality (AR)
+AR overlays digital
+objects (information,
+graphics, sounds) on
+the real world, allowing
+the user to experience
+the relationship between
+digital and physical worlds.
+Extended
+Reality (XR)
+XR refers to the spectrum
+of experiences that blurs the
+line between the real world
+and the simulated world.
+The technology immerses the
+user through visuals, audio,
+and potentially olfactory and
+haptic cues. The two major
+types of XR are virtual reality
+and augmented reality.
+31 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 2 Extended Reality
+Figure 4—
+Technology Evolution to the End of Distance.
+XR is removing
+the hurdle
+of distance,
+increasing
+access to people,
+information, and
+experiences.
+EXTENDED REALITY (XR)
+THE WHEEL
+MOBILE
+PHONE
+AUTO
+SNAIL MAIL
+INTERNET
+TELEPHONE
+TELEGRAPH
+CARRIER
+PIGEON
+32 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 2 Extended Reality
+Distance to People
+Companies are already using XR to
+erase the distance between people. With
+immersive environments making it possible
+for employees to “be” anywhere, XR-based
+solutions and innovations are growing across
+the workforce and throughout customerfacing
+products and services.
+Following years of relative stagnation,
+the corporate training industry is expected
+to grow at 10 percent CAGR from 2017
+through 2020.6 Its growth is driven by the
+need to train or reskill increasingly distributed
+and far-flung workers for a decidedly digital
+future, making employee training ripe for
+transformation with XR. Companies can
+bring trainers “offsite” from anywhere,
+or have students virtually “travel” to an
+instructor; training scenarios can be set up
+anywhere, then run, re-run, and adjusted
+to give a firsthand experience of different
+situations. XR eliminates the distance
+not just between student and teacher,
+but also concept and practice.
+By placing people directly into whatever
+setting that trainers can dream up, XR delivers
+firsthand experience with challenging or
+potentially dangerous situations without
+real-world risk. Walmart used VR to prepare
+store managers for the chaos of Black
+Friday, America’s biggest shopping day.7
+And Komatsu, a heavy machine manufacturer,
+has expanded its value proposition by
+offering virtual training for heavy equipment
+operators, in any location and regardless
+of weather conditions.8 With VR, Komatsu’s
+customers can ensure that its operators get
+the “seat time” needed to learn, without
+putting them—or multi-million-dollar
+excavating equipment—at risk.
+XR will also help businesses address
+the largest workforce challenge they face:
+the distance between themselves and the
+talent they need to grow. The technology
+supports an on-demand workforce approach,
+which not only saves in recruitment costs,
+but also helps businesses engage an
+ever-growing pool of talent who desires
+flexibility. Through immersive experiences,
+businesses can tap expertise in thousands
+of skills from anywhere in the world.
+What’s more, as XR-based remote
+control of physical systems becomes
+common, companies will be able to hire
+for manufacturing, assembly, and robotics
+expertise from a global pool of the best
+candidates, regardless of where they live.
+The result is an opportunity to redesign
+business without the limiting factor of
+distance—
+and for workers, to eliminate
+geography-based constraints on opportunity.
+Revolutionized workforce training and
+expanded access to expertise are just the
+beginning of what XR can accomplish for
+business, and they’re actionable—and
+immediately beneficial—options for the
+enterprise today. Embracing immersive
+technologies for training benefits companies,
+from the recruiting process, to enhancing
+the skills of long-time employees. In the
+fight for the best talent, XR delivers
+a powerful advantage.
+33 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 2 Extended Reality
+BMW offers an AR-driven exploration
+of its models, even letting people get
+“inside” the car to explore.
+34 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 2 Extended Reality
+Distance to Information
+One of the greatest limitations in getting
+work done is access to information. Whatever
+material is not already stored in a worker’s
+head must be pulled from a spreadsheet,
+a tutorial video, or a variety of other sources
+that drain a person’s attention, and siphon
+time and resources from the task at hand.
+XR is helping to eliminate the distance
+between employees and the information
+they need to get work done. On factory
+floors, it’s reducing the need for written
+instructions: GE Renewable Energy is using
+AR to deliver assembly information, improving
+worker productivity in wiring wind turbines
+by 34 percent.9 DHL Supply Chain uses AR
+glasses in its operations to provide visual
+displays of order picking and placement
+direction, freeing operators’ hands of
+paper instructions and allowing them to
+work more efficiently and comfortably.10
+By incorporating these XR solutions,
+DHL has averaged 15 percent productivity
+improvements while achieving higher
+accuracy rates. And L’Oréal’s Beauty Lab
+cut down the launch time of products
+from months to weeks by testing design,
+branding, and packaging in VR, speeding
+decision-making and reducing risks.11
+Consumers are also making purchase
+decisions from information delivered via XR
+technologies. Audi uses VR to let prospective
+customers design and tour their own custom
+vehicle, while BMW offers an AR-driven
+exploration of its models, even letting people
+get “inside” the car to explore.12,13 Houzz,
+a home remodeling and design company,
+introduced an AR-based application that
+lets customers “place” real products within
+their homes, and found that people who
+used it were 11 times more likely to make
+a purchase.14 With rich detail so easily
+accessible, companies must prepare
+for a more informed customer, providing
+ways to eliminate decision barriers.
+Finally, XR is not only closing the distance
+to information, but also the distance to new
+insights. Emerging XR tools express data in
+3D environments, closer to the way humans
+actually see and imagine scenarios. This clears
+the way for new types of visualizations—
+and new discoveries. The Body VR creates
+interactive 3D builds of traditionally 2D
+medical imaging, like CT scans and MRIs,
+to provide a more intuitive view of medical
+conditions.15 Similarly, Oxford researchers
+have created VR models of genetic data to
+better visualize what happens within living
+cells.16 XR is not just changing access to
+information, but also the viewer’s relationship
+to the information: how people parse,
+communicate, and extract value from data.
+35 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 2 Extended Reality
+Distance to Experiences
+Perhaps the greatest potential for XR-based
+disruption is through delivering experiences
+as a service, supporting the shift in consumer
+preferences away from material goods.
+Over the last 15 years, spending on durable
+goods like vehicles and furniture as a
+percentage of personal consumption in the
+US has dropped, even as overall spending
+has doubled.17 Yet spending on experiences,
+like recreation and travel, has been on the
+upswing for more than a decade.
+Businesses are finding a competitive edge
+with the design of memorable customer
+experiences. The Baltimore Ravens are
+the first National Football League team
+to enable AR-driven “virtual face painting,”
+letting fans customize and easily share their
+Ravens experience.18 The Denver Museum
+of Nature and Science uses AR to fuse
+digital and prehistoric worlds, resulting
+in an interactive anatomy lesson where
+museum-goers can place skin and muscles
+on dinosaur fossils.19 Even restaurants are
+reinventing the dining experience, with
+holographic top-of-table projections and
+VR tours for unforgettable experiences
+and entertainment between courses.20,21
+Public spaces are also being transformed
+with immersive experiences: Alamo Plaza
+in San Antonio, Texas, is developing an
+AR/VR “future of history” storytelling
+experience through a free app, giving
+Alamo visitors a new way to learn about the
+fort’s past.22 And XR has also demonstrated
+value in unlearning: researchers have seen
+compelling results using VR therapy to
+address post-traumatic stress disorder in
+military veterans, letting patients confront
+triggering stressors while talking through
+their responses with therapists in real time.23
+Across industries and applications,
+XR is pushing companies to not only think
+differently about what is possible, but also
+to create new solutions that bypass many
+of the distance-based challenges they
+face today—a clear advantage for leading
+companies that embrace it.
+36 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 2 Extended Reality
+Extended reality is
+pushing companies
+to not only think
+differently about
+what is possible,
+but also to create
+new solutions that
+bypass distancebased
+challenges.
+37 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 2 Extended Reality
+FROM HERE TO
+EVERYWHERE
+Conclusion
+Throughout history, technologies have evolved to
+minimize distance—from the wheel to the Internet,
+technology closes the gap. As XR technology makes
+immersive experiences commonplace, it solves for
+distance, minimizing its relevance.
+Today, XR is still evolving, and challenges
+around processing lag and content creation
+remain barriers to its full maturity. Despite
+this, our survey indicates that 27 percent of
+executives state it is very important for their
+organizations to be a pioneer in XR solutions.
+As today’s technical limitations are addressed,
+XR will only grow in capability and impact.
+To prepare for a world where the most powerful
+experiences might be virtual, businesses
+must focus on tactical uses of it today.
+Making well-planned forays into immersive
+experiences now will help build the
+capabilities needed to transform entire
+industries tomorrow. Today, real estate
+is experimenting with virtual home tours;
+soon, XR will transform what developers
+build to include optimizations for remote
+work, enabling people to do their jobs
+from anywhere. In the distant future, they’ll
+integrate features that let people dynamically
+change rooms from an office environment at
+one moment, to a retail store for shopping
+the next, without physically moving an inch.
+As XR becomes pervasive, immersive
+experiences will eliminate the most important
+distance of all: the distance between where
+businesses are today and where they want
+to be in the future.
+of executives state it is very
+important for their organizations
+to be a pioneer in XR solutions.
+27%
+38 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 2 Extended Reality
+DATA
+VERACITY
+The Importance of Trust
+Trend 3
+39 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Business is more data driven than ever, but inaccurate
+and manipulated information threatens to compromise
+the insights that companies rely on to plan, operate,
+and grow. Unverified data is a new type of vulnerability—
+one that every business leveraging digital technologies
+must address. Left unchecked, with autonomous, datadriven
+decision-making increasing across industries,
+the potential harm from bad data becomes an
+enterprise-level existential threat.
+Thirty-five years ago, Soviet watch officer
+Stanislav Petrov jumped out of his chair.1
+According to the satellite system he
+was monitoring on September 26, 1983,
+the United States had launched a nuclear
+missile at the Soviet Union. Protocol dictated
+that Petrov notify Soviet leaders, who would
+order an immediate counterattack.2
+Fortunately for the world, Petrov wasn’t
+convinced that the alerts were true. He didn’t
+notify his superiors, thereby preventing a
+global catastrophe. In making his decision,
+Petrov considered the satellite system’s
+warning data within its larger context. At the
+time, experts agreed that the scale of any
+preemptive attack from the United States
+would be massive, with additional bomber and
+attack support. With no other alerts to show
+such attacks were underway, Petrov knew that
+the data the system was showing didn’t match
+what was expected. That, combined with
+his understanding of the risks if he followed
+protocol, informed his ultimate decision.
+The Soviets later determined that their satellites
+had confused the reflection of sunlight off
+clouds for a missile launch. By questioning
+the validity of data, Stanislav Petrov had
+saved the world from nuclear disaster.
+Businesses may not make decisions
+about launching nuclear missiles. However,
+82 percent of executives responding to our
+Technology Vision survey report that their
+organizations are increasingly using data
+to drive critical and automated decisionmaking,
+at unprecedented scale. Today,
+the global economy runs on live information:
+IDC forecasted global revenues of nearly
+$151 billion for big data and analytics practices
+in 2017, up 12 percent from the year before.3
+Without establishing the veracity, or accuracy,
+of that data, businesses leave themselves open
+to a new kind of vulnerability—a threat that’s
+critically overlooked. A recent study estimated
+that 97 percent of business decisions are
+made using data that the company’s own
+managers consider of unacceptable quality.4
+The result? Business insights and decisions
+that are of questionable value at best, and
+corrupted at worst.
+40 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 3 Data Veracity
+But companies don’t need to accept
+the risks of poor data veracity. They can
+address this new vulnerability by building
+confidence in three key data-focused tenets:
+provenance, or verifying the history of data
+from its origin throughout its life cycle;
+context, or considering the circumstances
+around its use; and integrity, or securing
+and maintaining data. The skills and tools
+needed to build this confidence are
+within reach. Every business must build
+a “data intelligence” practice, drawing from
+existing data science and cybersecurity
+capabilities. The first step is to ensure that
+the right data is being used throughout
+decision support systems and processes.
+What’s more, companies must be vigilant in
+uncovering and addressing ways stakeholders
+might manipulate data for their own benefit.
+As systems from customer-facing apps to
+robot-run manufacturing floors change their
+behavior in response to unverified data,
+every business must answer the question:
+Where is your Stanislav Petrov?
+Provenance
+Verifying the history
+of data from its origin
+throughout its life cycle.
+Context
+Considering the
+circumstances around
+data’s use.
+Integrity
+Securing and
+maintaining data.
+41 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 3 Data Veracity
+Risks and Rewards of Data Veracity
+Companies around the world are betting
+big on advances in data-hungry technologies.
+In 2017 alone, AI investments were projected
+to reach $12.5 billion, while Internet of
+Things investments were expected to
+top $800 billion.5,6
+Yet without an accompanying push for
+data veracity, these investments could
+easily become a sucker’s bet. Businesses
+are spending heavily to determine what
+they can get out of data-driven insights and
+technologies, but they also need to invest
+in what’s going into them. Even the most
+advanced analytics and forecasting system is
+only as good as the data it’s given to crunch:
+as the saying goes, “garbage in, garbage out.”
+United Airlines realized that inaccurate data
+was contributing to $1 billion a year in missed
+revenue. Its seating demand forecasts were
+based on decades-old assumptions about
+flying habits, resulting in inaccurate pricing
+models.7 The airline highlighted this and other
+data-driven inaccuracies as key targets for
+improving operational performance. In an
+increasingly data-driven world, addressing
+these risks today will help United ensure that
+the data underpinning its revenue can be
+trusted in the future.
+The risks around poor data veracity grow
+as more organizations push toward fully
+autonomous decision-making, with critical
+implications for business and society. The US
+state of Indiana uses an automated system
+to flag individuals who may be registered
+to vote in more than one state.8 It looks at
+shared names and birthdates: if it finds a
+“John Smith” born on the same day and year
+who is registered in both Indiana and Maine,
+it marks that record as potentially fraudulent.
+Prior to 2017, these records were submitted
+for additional review; however, following
+legislative changes, the system immediately
+removed flagged individuals from registered
+voter rolls. With this process, the automated
+system amplifies data veracity risks:
+researchers have found that it generates
+inaccurate fraud alerts 99 percent of the
+time.9 The damaging result? The automated
+removal of legally registered voters, some
+of whom were simply unlucky enough
+to have a very common name.
+According to our survey, 79 percent
+of executives agree that organizations
+are basing their most critical systems
+and strategies on data, yet many have not
+invested in the capabilities to verify the
+truth within it. By making these investments,
+companies will generate more value from
+their data, and build a strong foundation
+for the success of other digital
+transformation initiatives.
+The new “data intelligence” practice will
+make this possible. Its job will be to grade
+the truth within data, by establishing,
+implementing, and enforcing standards
+for data provenance, context, and integrity.
+42 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 3 Data Veracity
+Creating a Data Intelligence Practice
+Businesses don’t have to start from scratch
+to grade the veracity of their data. Some of
+the most foundational elements of a data
+intelligence practice revolve around ramping
+up existing efforts: embedding and enforcing
+data integrity and security throughout
+the organization, while adapting existing
+investments in cybersecurity and data
+science to address data veracity issues.
+The basics, however, will only take companies
+part of the way. Grading data will also require
+developing an understanding of the “behavior”
+around it. Whether it’s a person creating a
+data trail by shopping online, or a sensor
+network reporting temperature readings for
+an industrial system, there’s an associated
+behavior around all data origination.
+Companies must build the capability to
+track this behavior as data is recorded, used,
+and maintained. With this understanding,
+they can provide cybersecurity and risk
+management systems with a baseline
+of expected behavior around data.
+These baselines will empower companies
+to detect data tampering that predicates
+poor decisions. Cutting-edge anomaly
+detection systems like MIT’s AI2 identify
+abnormal patterns of behavior, then
+categorize them based on experience
+provided by human experts. AI2 detects
+85 percent of cyber-attacks, and presents
+the most pressing incidents to experts
+for review.10 Industrial giant Siemens is
+offering anomalous behavior detection for
+industrial systems to oil and gas customers,
+by comparing aggregate data generated from
+sensors onboard its industrial equipment
+with historical norms and trends.11
+To mitigate risks around data veracity, SpaceX
+uses a consensus-based system: each Dragon
+Capsule uses six computers, operating in
+pairs, to validate calculations.12 Each pair
+checks its calculations against the others’,
+and the spacecraft only proceeds when
+at least two pairs return the same result.13
+A company’s data intelligence practice must
+also consider given data within available
+context—the way Petrov responded when
+he realized that the attack alert didn’t fit with
+accepted knowledge. Some companies are
+beginning to use data science capabilities
+to flag data that deviates from a known
+broader context. An R&D group at Thomson
+Reuters has developed an algorithm that uses
+streams of real-time data from Twitter to
+help journalists classify, source, fact-check,
+and debunk rumors faster than before.14
+Meanwhile, Google is using machine
+learning to remove apps with overreaching
+permissions from its Play Store. For example,
+a flashlight app only needs to activate a
+smartphone’s LED; if a purported flashlight
+app also requests access to a person’s
+contacts, it wouldn’t match the accepted
+“knowledge” around the permissions needed
+for a flashlight. The system could then mark
+the app for further review.15
+Using the right tools to monitor behavior
+and context around data’s provenance will
+help businesses mitigate risks that threaten
+data integrity. With this knowledge in hand,
+companies can begin to address issues that
+might be incentivizing deceit in the first place.
+43 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 3 Data Veracity
+Incentivize the Truth
+Understanding anomalous behavior will help
+companies address the threat of false data
+driving faulty decisions. But a data intelligence
+practice must also be charged with uncovering
+and addressing the factors contributing to
+the creation of false data in the first place.
+It’s an uncomfortable realization, but if a
+business depends on data collection, they are
+potentially incentivizing data manipulation.
+Individual instances of manipulated data
+may have minimal impact, but a bevy of
+deceptions can skew business outcomes.
+Researchers at the University of Warwick
+have studied the way some rideshare drivers
+organize simultaneous sign-offs to cause
+a shortage of drivers, and trigger surge
+pricing.16 Knowing that they’re participating
+in systems managed by algorithms, these
+drivers are trying to make the system
+work in their favor—at the expense of
+the ridershare company's efficiency.
+Dynamic pricing algorithms, and consumer
+reactions to them, also demonstrate the
+growing need for companies to understand
+motives for disclosing—or disguising—data.
+Online retailers spend hundreds of billions
+of dollars each year to advertise and price
+items online to different segments of people,
+based on zip code or household income.17,18
+Yet this practice sometimes conflicts with
+consumer preferences toward privacy.
+If a large percentage of people attempt to
+trick these algorithms—or perhaps more
+likely, do so unknowingly while trying to
+protect their privacy online—businesses
+will not only lose money, but also collect
+inaccurate data about their customers.
+The end result: more distorted insights.
+Already, online shoppers can install browser
+extensions like TrackMeNot or AdNauseam to
+generate random queries in the background,
+or robo-click on ads. These tools obscure a
+person’s real search history and misdirect ad
+networks.19 On Amazon, product reviews also
+became subject to data manipulation: thirdparty
+sellers were paying people to submit
+fake reviews to artificially inflate their product
+and seller ratings.20 In this case, Amazon
+responded by giving more weight to verified
+reviews from customers who had definitively
+purchased the item from Amazon. They also
+established an invitation-only incentivized
+review program, banning reviews from people
+who received free or discounted products
+outside the program’s curated process.21
+These efforts reduced the incentive to
+generate fake reviews on the site.
+The presence of bad data in a system isn’t
+always the result of malicious intent, but may
+be a sign that a process isn’t working the way
+it was intended. Uncovering processes that
+inadvertently incentivize deceit is a key step
+to improving the truth in data across a system.
+Incentivizing truth will allow companies to
+reduce noise in data, so that real threats
+stand out. Ultimately, it will help ensure the
+data is trustworthy enough to drive critical
+decisions in the future.
+The presence
+of bad data in
+a system isn’t
+always the result
+of malicious
+intent, but may
+be a sign that
+a process isn’t
+working the way
+it was intended.
+44 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 3 Data Veracity
+CONFIDENCE
+FOR THE FUTURE
+Conclusion
+Data is the lifeblood for digital companies, fueling
+complex business decisions that drive sustained growth.
+Ensuring the veracity of this data, then, becomes
+a cornerstone of strong leadership.
+Failure to do so can have grave
+consequences—especially as companies
+invest heavily in autonomous data-driven
+systems. Already, researchers have
+developed techniques that cause
+machine vision systems from mistaking
+stop signs for other road indicators, like
+speed limit signs (see Figure 5, page 48);
+such systems are used in autonomous
+vehicles, where fraudulent data like this
+could cause accidents.22 And as AI is used
+to make more business-critical decisions,
+biased data becomes a larger threat,
+skewing decisions and corrupting
+business insights.
+Strong cybersecurity and data science
+capabilities are prerequisites for building
+a data intelligence practice to ensure data
+veracity. Among other things, this group
+will determine the embedded risks across
+a portfolio of data supply chains, and set
+standards for how much risk is acceptable
+based on business priorities and implications
+of automated decisions. As such, the data
+intelligence practice should report up to the
+Chief Digital Officer, and collaborate closely
+with the Chief Information Security Officer.
+Organizing in this way, with a dual mandate
+to maximize veracity and minimize incentives
+for data manipulation, will support a business
+that can be confident in its insights, and alert
+to new potential threats. Now, every company
+has a new challenge: ensuring truth in the
+data that powers its enterprise.
+45 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 3 Data Veracity
+“HACKED”
+STOP SIGN
+HUMAN
+INTERPRETATION
+MACHINE
+INTERPRETATION
+Computer Interprets
+as a Speed Limit Sign,
+Overlooking Need to Stop
+Human Recognizes
+Vandalism & Still
+Adheres to Sign
+STOP
+STOP
+SPEED
+LIMIT
+Figure 5—
+New Technologies Present Threat-vectors that Businesses have never Considered.
+46 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 3 Data Veracity
+FRICTIONLESS
+BUSINESS
+Built to Partner at Scale
+Trend 4
+47 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Companies compete through strategic partnerships,
+and when these partnerships are technology-based,
+they can expand partner networks faster and into more
+ecosystems than ever before. But legacy business
+systems weren’t built to support this kind of expansion,
+and soon, outdated systems will be major hindrances
+to growth. Businesses must adopt microservices
+architectures, and use blockchain and smart contracts
+to build a strong foundation for technology-based
+partnerships. Those that invest in these changes today
+will redefine how businesses transact in the future.
+Today’s business partnerships are based
+not only on strategy, products, and services,
+but also on the merging of technology.
+GE and Microsoft have integrated their
+Predix and Azure platforms; SAP, Hitachi,
+and JPMorgan Chase & Co. are developing
+blockchain solutions as part of the Hyperledger
+consortium; Ford and Lyft have made a
+joint commitment to developing a fleet of
+self-driving taxis by 2021.1,2,3 The collaborative
+efforts of industry leaders worldwide show that
+technology is now at the root of partnerships.
+What’s more, extensive partnership building
+is becoming key to success. Take the
+competition playing out between shoe and
+apparel companies. In 2017, Nike announced
+a strategic partnership with Amazon, and
+simultaneously became one of the first
+companies to have its products sold through
+Instagram—a tacit acknowledgement that
+these ecosystems offer valuable inroads
+to customers vital for Nike’s growth.4,5
+On the manufacturing side, Adidas is
+partnering with Siemens for its engineering
+experience and software to build what
+the shoemaker calls a “speedfactory”—
+an automated manufacturing plant that can
+create customized shoes at faster speeds
+and lower costs than traditional methods.6,7,8
+And Under Armour is working with IBM’s
+Watson Analytics to improve the utility of
+data generated by the athletic company’s
+suite of apps and connected devices,
+delivering a customer experience that
+goes far beyond the shoes on their feet.9,10
+48 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 4 Frictionless Business
+Businesses must adopt
+microservices architectures,
+and use blockchain and smart
+contracts to build a strong
+foundation for technologybased
+partnerships.
+49 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 4 Frictionless Business
+Expanding Beyond Legacy
+Gaining an advantage over the competition means forging strong and plentiful
+partnerships, built and maintained through technology. Already, our survey shows
+36 percent of businesses report working with double or more partners than they
+were two years ago. But it’s critical for business leaders to recognize that their
+organization’s own technology will serve as the foundation for these strategic
+relationships—and could also be holding them back.
+The key problem facing enterprises: legacy systems that weren’t built to support
+technology-based partnerships. These systems were built in silos, intended to
+only operate within the business, with the assumption that change would be slow
+and steady. Now, as companies expand their networks, engage in ecosystems,
+and shift rapidly between them, outdated systems that can’t keep pace will be
+the biggest barrier to growth.
+Two technologies will play key roles in overcoming these challenges: microservices
+and blockchain. Internally, each company’s technology architecture must evolve to
+one that supports partnerships at scale; a microservices approach will foster agility
+as applications become more modular, enabling rapid integration with many new
+partners. Externally, as each company’s portfolio of partnerships grows, the scale
+of connections will require reimagining the way the business transacts with others.
+Blockchain will play a key role in creating, scaling, and managing those relationships
+through its ability to hold partners accountable without the need to first build trust.
+Technology-based partnerships are the strategic ambition of every business,
+but leaders must act now to adopt the tools to empower them. In doing so,
+they’ll unleash the enterprise across the economy, and redefine the way
+relationships are forged for those that follow.
+of businesses report working
+with double or more partners
+than they were two years ago.
+36%
+50 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 4 Frictionless Business
+The key problem
+facing enterprises:
+legacy systems that
+weren’t built to support
+technology-based
+partnerships.
+51 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 4 Frictionless Business
+Change Starts at Home
+To spur a new wave of technology-based
+partnerships, companies must start inside
+their own walls. Microservices is not a single
+piece of technology, but rather an approach
+to architecture. It uses a suite of tools like
+application programming interfaces (APIs),
+containers, and cloud to break applications
+into simple, discrete services.
+Microservices delivers internal benefits
+like application scalability and reliability,
+but it is also vital for building technology
+partnerships. A microservices architecture
+provides a foundation for companies to forge
+partnerships quickly and easily, seamlessly
+integrating services, without hindering
+partners or customers.
+Consider the US pharmacy, Walgreens.
+The company rebuilt their “healthy choice”
+rewards program with a goal of expanding
+partnerships via microservices.11 The APIs
+built during their microservices transformation
+were shared with third-party developers, who
+could integrate Walgreens’ rewards into their
+own apps, offering points to customers for
+activities like running, testing blood pressure,
+and even quitting tobacco.12
+Walgreens reports that building these
+partnerships now takes only a few hours,
+as opposed to the months-long process of
+the past. A microservices transformation isn’t
+just an architecture evolution, but a strategic
+imperative for the business: Walgreens is
+using their technology and partnerships as
+competitive advantage. They now work with
+more than 275 partners, and their prescription
+API fills one prescription per second through
+multiple channels.13
+APIs are at the heart of technology-based
+partnerships, which is why microservices is
+so critical to any business looking to build
+partnerships at scale. APIs are the pathways
+by which businesses make services and
+data available to partners, but developing
+APIs to only expose part of an application is
+fraught with difficulty, from the complexity
+of choosing which services to expose to
+potential security risks. The Walgreens
+success shows the partnership benefit of a
+microservices approach: APIs are necessarily
+built down to the level of individual services.
+The result is a library of APIs mapped to
+specific services, for every part of every
+application, all of which can be made
+easily available to potential partners.
+With this granularity of control, businesses
+have more opportunities to uncover latent
+demand for services and data that may lead
+to additional revenue channels. Foursquare,
+the location-based discovery app, has shifted
+from being an exclusively consumer-focused
+company to integrating its underlying
+geo-tagging services with partners including
+popular apps such as Snapchat, Twitter,
+Uber, Pinterest, and Apple Maps. Foursquare’s
+technology has even been baked directly
+into Samsung’s Galaxy S8 smartphone.14,15
+A microservices
+architecture
+provides a
+foundation for
+companies to
+forge partnerships
+quickly and easily.
+52 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 4 Frictionless Business
+APPLICATION ARCHITECTURE SCALING & SHARING
+OLD
+NEW
+MONOLITHIC
+APPLICATION
+RIGID SCALING
+& SHARING
+MODULAR
+SCALING &
+SHARING
+MICROSERVICES
+Leading companies have already jumped
+ahead with microservices transformations,
+starting the clock for those that hope to
+keep up. Notable digital-born companies
+such as Google and Netflix are pioneers—
+every Google search calls more than
+70 microservices to generate results—
+but they’re increasingly being joined by
+other industry leaders like Comcast and
+Capital One.16,17,18 In fact, 95 percent of
+IT executives we surveyed report that their
+organizations’ use of microservices will
+increase over the next year. The market
+for tools that support microservices is
+expected to reach $33 billion by 2023.19
+A microservices architecture will push
+organizations to clearly define the services
+they offer, allow them to discover new
+sources of revenue, and turn each service
+into a potential enabler of technologybased
+partnerships.
+How does
+microservices work?
+As opposed to a monolithic design, where
+applications are built with a single codebase,
+the microservices approach breaks down
+applications to their simplest component
+functions. Each function is treated within the
+organization as a single service, equipped
+with its own team of engineers responsible for
+maintaining their own code and, importantly,
+API endpoint. Larger applications are then
+strung together by making API calls to each
+of the independent services—a boon to
+partnerships as the API calls could include
+services outside the organization. Strictly
+internally, the benefits remain vast in that
+applications become lightweight, dynamically
+scalable, and more resilient as it is easier to
+pinpoint issues at a granular level. (See Figure 6.)
+Figure 6—Microservices Diagram.
+53 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 4 Frictionless Business
+What is Blockchain?
+Blockchain is a distributed ledger system that
+stores groups of transactions (the “blocks”) and
+then links and sequences the list of transactions
+using cryptography (the “chain”, see Figure 7).
+The real innovation with blockchain though is that
+no single organization owns the blockchain—
+it is distributed across a peer-to-peer network,
+with redundancies in the blocks and consensus
+mechanisms to ensure that no one can
+manipulate the transactions. Blockchains
+can either be public, like Bitcoin or Ethereum,
+or as in many enterprise use cases, they may
+be developed privately or by consortiums.
+Blockchain provides digital information,
+which to date has been infinitely replicable,
+with provenance—which is why it is the basis for
+cryptocurrencies like Bitcoin. With blockchain,
+every piece of currency is trackable, and
+therefore valuable. But blockchain is now being
+explored across a wide range of use cases,
+from identity management, to voting, cloud
+storage, and smart contracts, with successful
+implementations radically transforming the
+way companies do business. Essentially any
+business that could stand to benefit from
+an immutable database can—and will—
+be disrupted by blockchain.
+For example, to serve a world where its customers
+rely on 24/7 access to funds, the Central Bank
+of India is establishing a consortium of banks
+that will use blockchain as the method of interbank
+transactions.20 The initial pilot included
+firms that are responsible for 80 percent
+of financial transactions in the country.
+By having institutions share a distributed
+ledger, banks can maintain a more accurate
+and up-to-date record of transactions, meaning
+faster access to funds for customers and faster
+processing for the banks, which one study
+surmised may cut $15–20 billion in costs for
+banks by 2022.21 Blockchain and distributed
+ledger technology (the larger family of
+technology) is poised to have a similar impact
+across every industry—making it an important
+investment area for every business.
+BLOCK EDIT
+CREATED
+TRANSACTION
+REQUEST
+TRANSACTION /
+BLOCK
+BROADCASTED
+TRANSACTION /
+BLOCK
+VERIFIED
+TRANSACTION
+COMPLETED
+BLOCK ADDED
+TO CHAIN
+Figure 7—Blockchain Diagram.
+54 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 4 Frictionless Business
+Reinventing
+Relationship Building
+If microservices is the key to scaling and
+integrating partnerships, blockchain will
+be critical to managing and operating them.
+Businesses will be challenged to maintain
+a higher volume of partnerships than ever
+before, and even rapidly pivot between
+partners, without sacrificing the integrity
+or security of their products and services.
+Blockchain will address this complexity by
+acting as a surrogate for trusted relationships.
+Because the information stored within a
+blockchain is replicated and shared among
+a network of partners, participants have
+no inherent need to trust each other,
+or an intermediary, when they can simply
+delegate trust to the system.
+For companies grappling with managing
+a wide network of partners, blockchain
+provides a path to access irrefutable
+information in real time. Take the food
+industry, where supply chain complexity
+is pushing large competitors like Nestlé,
+Unilever, Tyson, Kroger, and Walmart to
+explore blockchain in unison, in order to
+improve food safety.22 These companies
+and others are partnering with IBM to
+develop a blockchain that will allow better
+transparency and tracking of food movement
+across their complex supply chains.
+In an early blockchain pilot, Walmart reduced
+the time it took to trace in-transit mangoes
+back to their source of origin from six days
+to 2.2 seconds.23 By using blockchain as the
+single source of truth, any enterprise with a
+vast logistics network can pinpoint sources
+of potential risks—contaminated produce,
+faulty parts, or fraudulent vendors—and
+react, ultimately enhancing operational
+speed while protecting the public and
+mitigating corporate risk.
+55 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 4 Frictionless Business
+But blockchain’s partnership benefits extend
+even further. Analog methods of creating
+trust don’t match the speed of a business’s
+technology. Delegating trust to a blockchain
+means that businesses can pursue broader
+networks, on-board new partners, or enter
+new ecosystems with ease. With blockchainbased
+smart contracts, businesses can
+outline the terms of a given relationship,
+and then automatically release data or
+execute programs for any prospective
+partner meeting those terms.
+The Republic of Estonia uses a blockchainbased
+smart contract system to operate
+like an ecosystem of partners. All public
+data, from medical records to residency
+information, is exclusively stored and
+maintained by local offices that create it,
+rather than in a centralized database.24
+When completing a task requires crossdepartmental
+information, whether creating
+a birth certificate or filing a police report,
+government employees use “X-Road,”
+the country’s smart contract system.
+X-Road automatically authenticates the
+requestor’s identity, verifies their need
+to access the information, and regulates
+the time and ways in which the requestor
+can use the information. The framework
+enables fast, secure data-sharing between
+government agencies, while giving citizens
+insights into who is accessing what data
+and maintaining security.
+While many blockchain initiatives are still
+in early stages, 49 percent of organizations
+responding to our survey are planning active
+research into—or piloting over the next
+year—how they can leverage blockchain.
+Filament is a blockchain-based network
+to create secure communication between
+Internet of Things devices without connecting
+them to the cloud—both Amazon and SpaceX
+are customers.25 ENERES, a Japanese energy
+company, will be testing blockchain
+as a means to re-distribute excess
+energy among households in
+Fukushima.26,27 Provenance,
+an aptly named company, offers
+businesses the ability to create
+a digital record for any physical
+product, ensuring authenticity
+and trust across their supply
+chain and with consumers.28
+These early adopters are shifting the
+business landscape across every geography
+and every industry. In the very near future,
+any company that wants to do business with
+these institutions will need a framework for
+doing so via blockchain—or the relationships
+they’re relying on for growth won’t be
+possible. For these reasons, 60 percent of
+executives we surveyed report that blockchain
+and smart contracts will be critical to their
+organizations over the next three years.
+56 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 4 Frictionless Business
+Early adopters are shifting the
+business landscape across every
+geography and every industry.
+57 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 4 Frictionless Business
+THE FUTURE OF
+PARTNERSHIPS
+Conclusion
+Tomorrow’s leading businesses will be those that enable
+partnerships through technology today. Organizations
+must actively reshape their business from top to bottom
+to meet the challenges of creating and managing
+relationships at scale.
+Companies should begin to re-evaluate how they architect their applications and
+services, moving toward microservices to set the foundation and quickly build the
+relationships needed for growth. For many, blockchain will become the future of how
+businesses transact, and leaders must begin investing in the relevant skills and tools
+today. Those that empower technology-based relationships will find a clear path
+to growth, and new opportunities for innovation.
+of executives report
+that blockchain and smart
+contracts will be critical
+to their organizations over
+the next three years.
+60%
+58 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 4 Frictionless Business
+INTERNET
+OF THINKING
+Creating Intelligent
+Distributed Systems
+Trend 5
+59 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Robotics, immersive reality, artificial intelligence
+and connected devices are bringing a new level of
+technological sophistication to the physical world.
+But businesses are assuming that their
+existing technical infrastructures will support
+the compute these systems require—and
+doing so at their peril. Enabling intelligence for
+the next generation of technology demands
+an overhaul of existing infrastructures, with
+a balance of cloud and edge compute, and
+a renewed focus on hardware to deliver
+intelligence everywhere.
+Imagine a seizure patient with an implanted
+device that does real-time analytics on her
+brainwaves, monitoring for unusual activity.
+Within milliseconds of sensing the beginning
+of a seizure, the device delivers pulses
+designed to stop it—without needing to
+consult an external system about what
+it should do, or waiting for any input from
+the patient. In fact, she doesn’t even know
+it’s happening. All of the action happens
+on the device itself.
+This isn’t a hypothetical scenario,
+but a real treatment option in use today.
+After NeuroPace’s neurostimulation
+device is surgically implanted in a patient’s
+skull, it invisibly and autonomously monitors
+for and prevents seizures, reducing incidence
+by 44 percent after just the first year.1
+This real-time management of a critical
+medical condition is an example of what’s
+possible with intelligent environments:
+combinations of real-time sensing and
+computing that deliver instant action.
+Delivering intelligence like this means
+managing the complexity of unpredictable,
+physical-world interactions. Of course, not
+every scenario will involve an environment
+as unpredictable as the human body—
+or be a life-or-death matter. But the enterprise
+infrastructures that are common today cannot
+support the instant insights and actions
+needed to create intelligent solutions at
+scale. Current infrastructures are designed
+around a few basic assumptions: enough
+bandwidth to support any remote application,
+an abundance of compute in a remote cloud,
+and nearly infinite storage. But the demand
+for immediate response times in physicalworld
+applications defies this approach.
+From ICU hospital rooms that automatically
+manage patient fluids, to self-maintaining
+industrial equipment, more companies
+are developing intelligent environments—
+and in doing so, pushing enterprise
+endpoints further outside of the controlled
+environments they’re used to managing.2
+The resulting need for real-time systems
+puts hardware in focus: special-purpose
+and customizable hardware is making
+devices at the edge of networks more
+powerful and energy efficient than ever
+before. Combined with a reimagining of
+enterprise infrastructure, this unleashes
+a bevy of new opportunities for businesses
+willing to see “the edge” as a strategic asset
+in delivering intelligent environments.
+60 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 5 Internet of Thinking
+Savvy companies are already taking steps
+in this direction. Land O’Lakes, for example,
+has deployed semi-autonomous tractors that
+make variable planting decisions on-board as
+they traverse a farm, improving crop yields
+by three to five times.3 Similarly, a growing
+number of “conscious” surveillance cameras—
+used for tasks as varied as recognizing when
+a package has been delivered, to tracking a
+baby’s sleep—avoid sending terabytes of data
+for offsite processing, instead incorporating
+analytics-focused processing power on the
+actual device.4 When the camera itself can
+determine the difference between a human
+approaching a door and a squirrel running
+past the lens, it can reduce false alarms
+and provide truly intelligent, actionable
+security in real time.
+Delivering physical, intelligent environments
+will require a serious rethinking of current
+enterprise infrastructures, leveraging an
+expanded network of devices and updated
+methodologies. Without this approach,
+companies won’t be able to deliver the
+sophisticated, intelligent experiences
+in robotics, immersive reality, artificial
+intelligence, or the Internet of Things that
+their next generation of strategies is built on.
+Embedding a business into the surrounding
+world begins with an architectural
+transformation—building the capabilities
+to power intelligent actions everywhere.
+Welcome to the Internet of Thinking.
+61 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 5 Internet of Thinking
+Wanted: Intelligence Everywhere
+Across industries, the next generation of
+intelligent solutions is moving into physical
+environments, and key company strategies
+ride on pushing intelligence into the physical
+world: improving traffic flows in smart cities;
+telemedicine that continuously analyzes a
+patient’s condition; disaster analysis that
+prevents oil field catastrophes before they
+start.5,6,7 Now, companies need to extend
+their infrastructures to reach into the dynamic
+physical environments they want to serve.
+Current predictions suggest that by 2020,
+smart sensors and other Internet of Things
+devices will generate at least 507.5 zettabytes
+of data.8 Trying to do all of the computational
+heavy lifting offsite ultimately will become
+a limiting factor. To fully enable real-time
+intelligence, businesses must shift eventdriven
+analysis and decision processing closer
+to points of interaction and data generation.
+Delivering intelligence in the physical world
+means moving closer to the edge of networks.
+The cloud will continue to play a key role in
+enterprise infrastructures. While intermediary
+and edge devices process data to provide
+instant actions, businesses will put the cloud
+to use generating the larger, “meta-insights”
+that improve systems over time—taking the
+best of both worlds to reinvent the new.
+DS Virgin Racing brought this technique to
+its Formula E race team. Data from control
+systems in the racecar is processed in real
+time to make adjustments while the car races
+at the track; after the race, the company uses
+cloud resources to garner deeper insights
+from larger data sets.9
+Designing systems to leverage the power
+of both device-driven instant insights and
+meta-insights from the cloud means new
+considerations around storage. Companies
+must differentiate data assets that are critical
+to keep versus those that can be discarded
+once a decision has been made. Data assets
+tagged for backhauling to the cloud should
+have an explicit need for retention, such as
+collecting a large body of historic data to
+drive better decision-making. Meanwhile,
+data intended only for short-lived decisions
+at the edge can be discarded.
+A national railway in Europe adopted
+this approach to deliver a more intelligent
+experience for its riders, while acknowledging
+bandwidth constraints between stations.
+Cameras in the train cars use on-board
+processing capabilities to determine whether
+a seat is occupied or empty, then send open
+seat numbers to the upcoming station on the
+line.10 Waiting passengers can then reserve
+open seats using station kiosks before the
+train arrives; as soon as a seat is reserved,
+the previous “seat open” insight is no longer
+of any value, and is discarded. Meanwhile,
+overall train occupancy and sales data
+can be retained for future optimization
+of schedules and routes.
+Businesses must find their unique balance
+for dividing processing tasks among the
+cloud and the edge, and everywhere in
+between. This capability has been made
+possible through improvements in
+processing power and energy efficiency
+at the edge; and now, with the push for
+enabling instant actions, it’s critical.
+62 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 5 Internet of Thinking
+Across industries,
+the next generation
+of intelligent solutions
+is moving into physical
+environments.
+63 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 5 Internet of Thinking
+Leveraging Custom and Accelerated Compute
+Extended infrastructures will become the
+backbone of the Internet of Thinking. To then
+bring it to full maturity, companies will need
+to deliver sufficient computing power where
+intelligent environments need it. This means
+a renewed focus on hardware, at a time when
+many companies have grown accustomed
+to software-driven solutions as their go-to
+strategies. Companies are taking note: our
+Technology Vision 2018 survey indicates
+63 percent of executives believe it will be
+critical over the next two years to leverage
+custom hardware and hardware accelerators
+to meet the computing demands of intelligent
+environments. Businesses must act today to
+incorporate these hardware-focused skills
+into their workforce—an added challenge
+for those whose cloud-first mentality may
+have de-emphasized this need.
+For nearly every business, modernizing
+infrastructures for intelligent actions
+will mean taking advantage of hardware
+accelerators: special-purpose hardware that
+is exceptionally fast at a very specific task
+(see “Hardware accelerators” on page 69).
+To meet the computing and power demands
+of edge-based decision-making, there is
+simply no other option.
+Companies have long leveraged the
+multi-purpose capabilities of graphics
+processing units (GPUs). These hardware
+accelerators are already in widespread use
+in early intelligent offerings where power
+draw isn’t a primary concern. The global
+leader in factory automation and industrial
+robotics, FANUC, uses NVIDIA GPUs in its
+Intelligent Edge Link and Drive system.11
+The FANUC system helps manufacturing
+robots to learn complex activities over time,
+such as picking specific parts out of a bin,
+detecting anomalies, and predicting failures.12
+Chinese startup TuSimple is also using NVIDIA
+GPUs to develop its autonomous navigation
+system.13 Hardware accelerators like GPUs
+help businesses deliver “thinking” at the point
+of interaction, driving real-time decisionmaking
+in the target environment.
+When hardware acceleration isn’t enough,
+especially demanding environments may
+call for custom hardware. Extended reality
+(virtual and augmented reality experiences)
+requires tremendous computing power to
+operate in real time; it’s also a prime example
+of early success for the Internet of Thinking,
+with worldwide revenues for the augmented
+reality and virtual reality market forecasted
+to reach nearly $215 billion by 2021.14 It’s no
+surprise, then, that leaders in this industry
+have a head start on building or leveraging
+custom hardware solutions.
+The first version of Microsoft’s HoloLens
+“visor” started with the viewer tethered
+to a separate computer. Incremental
+improvements were made to get that
+computer into a backpack, but that still
+wasn’t viable for a consumer device.
+By developing its own customized hardware—
+the holographic processing unit—Microsoft
+advanced the HoloLens to a standalone
+device. The real-time processing that
+once required a separate computer with
+Hardware
+accelerators
+like GPUs help
+businesses
+deliver “thinking”
+at the point of
+interaction.
+64 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 5 Internet of Thinking
+dedicated power now sits within the portable,
+rechargeable HoloLens headsets available to
+developers. What’s more, it’s got compute
+cycles to spare, currently operating at less
+than 50 percent of its total capacity.15
+Building or leveraging custom and specialized
+hardware is a shift from the “one-size-fitsall-
+tasks” approach that proved popular in
+enterprises during the last decade. But that
+shift is critical to enable the processing
+speeds that drive integrated, sophisticated
+experiences at the edge. Instead of doubling
+its data center footprint, Google built a
+computer chip specifically to run deep neural
+networks: the tensor processing unit, which
+outperforms standard processors by 30 to
+80 times in efficiency.16 It’s among a host
+of new, specialized processing units that
+Facebook, Microsoft, Amazon, Baidu and
+others are using to train and run AI models.
+For businesses looking to lead in intelligent
+environments, both custom and accelerated
+hardware options are a key element of the
+path to real-time insights and action.
+of executives believe it will
+be critical over the next two
+years to leverage custom
+hardware and hardware
+accelerators to meet the
+computing demands of
+intelligent environments.
+63%
+65 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 5 Internet of Thinking
+INTELLIGENCE
+ACROSS
+INFRASTRUCTURES
+Conclusion
+83 percent of executives we surveyed agree
+that edge architecture will speed the maturity
+of many technologies.
+With key intelligent offerings poised to
+graduate from early growth to explosive use,
+businesses must redesign their infrastructures
+to support real-time action in dynamic
+environments. This means adding key skills
+and workforce capabilities, and rethinking
+current approaches to both infrastructures
+and hardware solutions.
+Creating the Internet of Thinking means
+companies must extend compute beyond
+the cloud, toward the edge of networks.
+At the same time, companies must explore
+custom hardware solutions and hardware
+accelerators that let systems circumvent
+latency and compute limitations. Cloud
+processing remains appealing for high-value
+learning, predictions, AI-model generation,
+and storage in situations that are not timecritical.
+But for real-time, intelligent action,
+processing must happen at the edge of
+networks, where the event is occurring.
+To drive AI, robotics, and other revolutionary
+technologies to their full potential, companies
+must make a significant effort across key
+areas of business processes and strategy,
+from service design, to infrastructure
+transformation, to hardware considerations.
+The well-earned result will be truly intelligent
+environments that meet people where they are.
+66 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 5 Internet of Thinking
+Figure 8—
+Common Hardware Accelerators.
+Hardware Accelerators
+When companies need improvement in
+processing power and energy consumption,
+they must turn away from traditional central
+processing units (CPUs) and look toward
+hardware accelerators such as graphics
+processing units (GPUs), field (re)programmable
+gate arrays (FPGAs), and application-specific
+integrated circuits (ASICs). Broadly speaking,
+each of these accelerators can offer an order
+of magnitude improvement over the former
+in both compute and energy efficiency (See
+Figure 8), though there are tradeoffs in cost.
+Despite the high cost to develop and
+manufacture, ASICs are being applied
+to myriad uses today. Microsoft HoloLens’
+holographic processing unit is an ASIC, for
+example, and this is what enabled the company
+to build a headset that doesn’t need to be
+tethered to a computer. Google’s tensor
+processing unit is also an ASIC, and developers
+can gain access to its powerful AI capabilities—
+the same technology that runs the machine
+learning behind apps like Street View and
+voice search—through Google Cloud Platform.
+Other cloud providers are looking to compete
+with Google’s tensor processing unit offering
+with modern FPGAs. Project Brainwave at
+Microsoft uses Intel’s Stratix 10 FPGAs.17
+Baidu is adopting a similar approach, using
+Xilinx’s FPGAs for its cloud-based AI offering,
+the same FPGAs that Amazon Web Services
+uses in its F1 offering. Microsoft also uses
+FPGAs as dedicated encryption processors,
+securing every connection to Office 365.
+ASICs and FPGAs aren’t the only hardware
+accelerators making an outsized impact today,
+of course. Companies have long repurposed
+GPUs for specific tasks, to the point that this
+use has spawned an embedded acronym,
+GPGPU: general purpose computing on
+graphics processing units. The availability
+of these processors—included in most
+computers sold today—and ease of
+programming frameworks (CUDA, OpenCL,
+and DirectCompute) make GPGPUs the
+workhorses of modern hardware acceleration.
+CPU GPU FPGA ASIC
+RELATIVE
+EXECUTION
+PERFORMANCE
+Low Medium Med–High Very High
+RELATIVE
+TOTAL COST $–$$ $–$$ $$–$$$ $$$$$
+BREADTH OF
+FUNCTIONALITY Very High Medium Med–High Low
+RELATIVE
+AVAILABILITY
+OF NECESSARY
+TALENT
+Widespread Available Limited Highly
+Specialized
+KEY
+PLAYERS
+Intel, AMD,
+ARM
+NVIDIA,
+Intel, AMD
+Xilinx, Intel
+(Altera), Actel
+NEC, LSI,
+Samsung
+67 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Trend 5 Internet of Thinking
+Every year, the Technology Vision team partners
+with Accenture Research to pinpoint the emerging
+IT developments that will have the greatest
+impact on companies, government agencies,
+and other organizations in the next three to five
+years. These trends have significant impact across
+industries, and are actionable for businesses today.
+The research process begins by gathering
+input from the Technology Vision External
+Advisory Board, a group of more than
+two dozen experienced individuals from
+the public and private sectors, academia,
+venture capital, and entrepreneurial
+companies. In addition, the Technology
+Vision team conducts interviews with
+technology luminaries and industry experts,
+as well as nearly 100 Accenture business
+leaders from across the organization.
+Each year, the research process also
+includes a global survey of thousands
+of business and IT executives from around
+the world, to understand their perspectives
+on the impact of technology in business.
+Survey responses help to identify the
+technology strategies and priority
+investments of companies from across
+industries and geographies.
+As a shortlist of themes emerges from the
+research process, the Technology Vision team
+reconvenes its advisory board. The board’s
+workshop, a series of ‘deep-dive’ sessions
+with Accenture leadership and external
+subject-matter experts, validates and
+further refines the themes.
+These processes weigh the themes for their
+relevance to real-world business challenges.
+The Technology Vision team seeks ideas
+that transcend the well-known drivers of
+technological change, concentrating instead
+on the themes that will soon start to appear
+on the C-level agendas of most enterprises.
+About the Technology Vision
+RESEARCH
+METHODOLOGY
+68 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Research Methodology
+SURVEY
+DEMOGRAPHICS
+Technology Vision 2018
+69 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Technology Vision 2018 Survey Demographics
+For the fourth year, we conducted a global survey
+of thousands of business and IT executives to
+understand their perspectives on the impact of
+technology on their organizations, and to identify
+their priority technology investments over the
+next few years. More than 6,300 executives from
+25 countries responded to the survey, which was
+fielded from November 2017 through January 2018.
+25 COUNTRIES SURVEYED
+Argentina
+Australia
+Austria
+Brazil
+Canada
+Chile
+China
+Columbia
+France
+Germany
+India
+Indonesia
+Ireland
+Italy
+Japan
+Peru
+Portugal
+Singapore
+South Africa
+Spain
+Switzerland
+Thailand
+United Arab Emirates
+United Kingdom
+United States
+70 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Survey Demographics
+Automotive
+Aerospace &
+Defense
+Banking
+Communications
+Chemicals
+Consumer Goods
+& Services
+Energy
+Healthcare
+Industrial
+Equipment
+Insurance
+Life Sciences
+Metals & Mining
+Public Service
+Retail
+Semiconductors
+Software &
+Platforms
+Travel
+Utilities
+0.5%
+1.6%
+12.3%
+8.8%
+1.6%
+10.8%
+1.6%
+1.6%
+10.8%
+9.8%
+1.6%
+1.6%
+12.1%
+0.6%
+1.6%
+1.6%
+8.6%
+12.9% $
+50
+billion or more
+$20–$49.9
+billion
+$10–$19.9
+billion
+4% 7% 15%
+$6–$9.9
+billion
+$1–$5.9
+billion
+$500–$999
+million
+27% 45% 2%
+7%
+CIO/Chief Mobility Officer
+9%
+CMO
+8%
+CSO
+12%
+CTO/Director of Technology
+8%
+CFO
+15%
+Function Head
+(Non IT-related)
+23%
+Director, IT
+12%
+COO
+6%
+Line of Business Head
+(Non IT-related)
+Role
+Revenue (USD)
+Industry
+71 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Survey Demographics
+INTRODUCTION
+1 Kloberdanz, K. (2017, May 25). How Augmented Reality Glasses Are Being Used in Industry. GE.
+https://www.ge.com/reports/looking-smart-augmented-reality-seeing-real-results-industry-today/
+2 Millward, S. (2017, July 27). “AI English Teacher” Gets $100M. Tech in Asia.
+https://www.techinasia.com/ai-english-teacher-100m
+3 Liu, X., Nourbakhsh, A., Li, Q., & Shah, S. (2015, October). Real-Time Rumor Debunking on Twitter.
+https://dl.acm.org/citation.cfm?doid=2806416.2806651
+4 Vega, N. (2017, July 28). Amazon Wants to Install Delivery Lockers in Your Apartment Building. Business Insider.
+http://www.businessinsider.com/amazon-hub-delivery-locker-apartment-buildings-2017-7
+5 Barrett, B. (2017, October 25). Amazon Key Puts Deliveries—and Delivery People—in Your Home. Wired.
+https://www.wired.com/story/amazon-key-and-cloud-cam/
+6 Dellinger, AJ. (2016, June 6). Tesla May Be Sharing Data with the Government to Help Advance Regulation on
+Autopilot Vehicles. The Daily Dot. https://www.dailydot.com/debug/tesla-motors-autopilot-data-offered-todepartment-
+of-transportation/
+7 MindSphere: Data to Knowledge. (n.d.). Siemens.
+https://www.siemens.com/global/en/home/products/software/mindsphere.html
+8 Malik, J. (2017, September 28). If Data Is the New Oil, Then Equifax Just Caused a Huge Environmental Disaster. CSO.
+https://www.csoonline.com/article/3228887/data-breach/if-data-is-the-new-oil-then-equifax-just-caused-a-hugeenvironmental-
+disaster.html
+9 Customer Letter. (2016, February 16). Apple. http://www.apple.com/customer-letter/
+10 Alvarez, C. (2017, October 27). L’Oréal Championne Mondiale du Développement Durable, Selon le CDP. Novethic.
+http://www.novethic.fr/empreinte-terre/climat/isr-rse/l-oreal-championne-mondiale-du-developpementdurable-
+144955.html
+11 L’Oréal Named as One of the World’s Most Ethical Companies by the Ethisphere Institute for the Seventh Time.
+L’Oréal Group. (2016, March 7). http://www.loreal.com/media/press-releases/2016/mar/ethispere-2016
+12 Can AT&T Retrain 100,000 People? (2017, March 15). Fortune.
+http://fortune.com/att-hr-retrain-employees-jobs-best-companies/
+References
+72 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+TREND 1
+1 Miotto, R., Li, L., Kidd, B. A., & Dudley, J. T. (2016). Deep Patient: An Unsupervised Representation to Predict the
+Future of Patients from the Electronic Health Records, Scientific Reports 6, 26094.
+2 Gaudin, S. (2016, May 6). At Stitch Fix, Data Scientists and A.I. Become Personal Stylists. ComputerWorld.
+https://www.computerworld.com/article/3067264/artificial-intelligence/at-stitch-fix-data-scientists-andai-
+become-personal-stylists.html
+3 Najberg, A. (2017, June 27). China Auto Insurance Claims Adjusters Get AI Boost from Ant. Alizila.
+http://www.alizila.com/china-auto-insurance-claims-adjusters-get-ai-boost-ant/
+4 Tieto the First Nordic Company to Appoint Artificial Intelligence to the Leadership Team of the New Data-Driven
+Businesses Unit. (2016, October 17). https://www.tieto.com/news/tieto-the-first-nordic-company-to-appoint-artificialintelligence-
+to-the-leadership-team-of-the-new
+5 Worldwide Semiannual Cognitive/Artificial Intelligence Systems Spending by Industry Market 2016–2020 Forecast.
+(2017, June). IDC (Doc #US42749817). http://www.idc.com/getdoc.jsp?containerId=US42749817
+6 Drones in the Matrix. (2017, Fall)
+https://engineering.cmu.edu/news-events/magazine/fall-2017/drones-in-the-matrix.html
+7 Greenemeier, L. (2017, October 18). AI versus AI: Self-Taught AlphaGo Zero Vanquishes Its Predecessor. Scientific American.
+https://www.scientificamerican.com/article/ai-versus-ai-self-taught-alphago-zero-vanquishes-its-predecessor/
+8 Coward, C. (2017, August 29). Google Releases a Dataset to Train Your AI on Natural Language.
+https://blog.hackster.io/google-releases-a-dataset-to-train-your-ai-on-natural-language-e3cdfa43826c
+9 So, C. (2017, June 2). Google Improves Voice Recognition, Hits 95% Accuracy. Android Headlines.
+https://www.androidheadlines.com/2017/06/google-improves-voice-recognition-hits-95-accuracy.html
+10 Zhao, J., Wang, T., Yatskar, M., Ordonez, V., & Chang, K.-W. (2017). Men Also Like Shopping:
+Reducing Gender Bias Amplification using Corpus-level Constraints. ArXiv:1707.09457 http://arxiv.org/abs/1707.09457
+11 Reading an AI Car’s Mind: How NVIDIA’s Neural Net Makes Decisions. (2017, April 27).
+https://blogs.nvidia.com/blog/2017/04/27/how-nvidias-neural-net-makes-decisions/
+12 Knight, W. (2017, April 13). The Financial World Wants to Open AI’s Black Boxes. MIT Technology Review.
+https://www.technologyreview.com/s/604122/the-financial-world-wants-to-open-ais-black-boxes/
+13 Goodman, B., & Flaxman, S. (2016). European Union Regulations on Algorithmic Decision-Making
+and a “Right to Explanation.” ArXiv:1606.08813 [Cs, Stat]. http://arxiv.org/abs/1606.08813
+14 Audi Takes Lead in Automated Driving, but Others Wary to Follow. (2017, September 18). Reuters.
+https://www.reuters.com/article/us-autoshow-frankfurt-autonomous/audi-takes-lead-in-automateddriving-
+but-others-wary-to-follow-idUSKCN1BT114
+15 BMVI—Bundesregierung Beschließt Maßnahmenplan zum Automatisierten Fahren. (2017, August 23).
+http://www.bmvi.de/SharedDocs/DE/Pressemitteilungen/2017/128-dobrindt-massnahmenplanethikregeln-
+fahrcomputer.html
+16 Rise of the Robots: Mady Delvaux on Why Their Use Should Be Regulated. (2017, February 15). European Parliament.
+http://www.europarl.europa.eu/news/en/headlines/economy/20170109STO57505/rise-of-the-robots-madydelvaux-
+on-why-their-use-should-be-regulated
+References
+73 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+TREND 2
+1 Athwal, N. (2017, June 13). The Rise of Virtual Reality in Real Estate. Forbes.
+http://www.forbes.com/sites/forbesrealestatecouncil/2017/06/13/the-rise-of-virtual-reality-in-real-estate/
+2 RoOomy website. https://rooomy.com/interior-design
+3 Carter, G. (2017, August 17). 5 Ways VR is Making the Real Estate Business Better for Everyone. Venture Beat.
+http://www.venturebeat.com/2017/08/17/5-ways-vr-is-making-the-real-estate-business-better-for-everyone/
+4 Accenture Analysis based on: Downey, R. (2017, October 20). Fastest Growing Private Companies in Silicon Valley.
+https://www.bizjournals.com/sanjose/subscriber-only/2017/10/20/fastest-growing-private-companies-in.html
+5 Accenture Analysis based on: Downey, R. (2016, October 21) Fastest Growing Private Companies.
+https://www.bizjournals.com/sanjose/subscriber-only/2016/10/21/fastest-growing-private-companies.html
+6 Global Corporate Training Market, 2016-2020. (2016, November). Technavio.
+https://www.technavio.com/report/global-education-technology-global-corporate-training-market-2016-2020
+7 Rao, L. (2017, June 2). Walmart is Looking to VR to Prep Workers for Black Friday. Fortune.
+http://fortune.com/2017/06/02/walmart-vr-black-friday/
+8 ImmersiveSimulators. (2017, February 21). WorksiteVR Simulator from Immersive Technologies –
+What Komatsu Training Experts are Saying. [Video File] https://youtu.be/ibIWZoBBKws/
+9 Augmented Reality Use Cases and Case Studies. (2017, January 12). Upskill. https://upskill.io/skylight/use-cases/
+10 DHL Supply Chain Makes Smart Glasses New Standard in Logistics. (2017, August 2). DHL press release.
+http://www.dhl.com/en/press/releases/releases_2017/all/logistics/dhl_supply_chain_makes_smart_glasses_new_
+standard_in_logistics.html
+11 Milnes, H. (2017, June 16). How L’Oreal Uses Virtual Reality to Make Internal Decisions at Its New York HQ. DigiDay.
+https://digiday.com/marketing/loreal-uses-virtual-reality-make-internal-decisions-new-york-hq/
+12 Joseph, P. (2017, September 13). Virtual Reality Lets Audi Fans Design Their Dream Car. Super Yachts.
+http://www.superyachts.com/luxury/virtual-reality-lets-audi-fans-design-their-dream-car-4715.htm
+13 Shead, S. (2017, January 5). BMW Hopes Google’s Augmented Reality Tango Technology Will Help It to Sell Cars. Business
+Insider. http://www.businessinsider.com/bmw-google-augmented-reality-tango-2017-1
+14 Lunden, I. (2017, September 19). A New ARKit App from Houzz Brings 500,000 Objects to Moveable Life. TechCrunch.
+http://social.techcrunch.com/2017/09/19/a-new-arkit-app-from-houzz-brings-500000-objects-to-moveable-life/
+15 The Body VR—Anatomy Viewer. http://thebodyvr.com/anatomy-viewer/
+16 Jones, B., & Bergan, B. (2017, September 22). Virtual Reality Headsets Might Help Cure Genetic Diseases. Futurism.
+https://futurism.com/virtual-reality-headsets-might-help-cure-genetic-diseases/
+17 Quittner, J. (2016, September 1). Why Americans Are Spending More on Experiences vs Buying Stuff. Fortune.
+http://fortune.com/2016/09/01/selling-experiences/
+18 Ravens Are First NFL Team to Launch Augmented Reality Face Paint. (2017, September 8).
+http://baltimore.cbslocal.com/2017/09/08/ravens-are-first-nfl-team-to-launch-augmented-reality-face-paint/
+19 Worthington, D. (2017, October 22). Want to Play with Virtual Reality, 3-D Printing or Video Games?
+Head to a Museum. Denver Post. http://www.denverpost.com/2017/10/22/denver-museum-of-natureand-
+science-virtual-reality-3d-printing-video-games-tech/
+20 Selvam, A. (2017, July 24). Chicago Restaurant Launches $95 Virtual Reality Scotch Cocktail
+Using Oculus Headset. Chicago Eater. https://chicago.eater.com/2017/7/24/16020316/
+chicago-vr-virtual-reality-cocktail-conrad-hotel-bapitste-bottle-macallan-scotch
+21 YouTube – Garlic Pickle. Restaurant Entertain Guest with Augmented Reality (3D Projection). (2017, October 5).
+https://www.youtube.com/watch?v=tFCoHBVRYZI
+22 Komet, L. (2017, July 18). Imagine VirtuaTM Secured to Develop Seven-Figure Alamo Plaza Augmented
+Reality History Experience. PR Web. http://www.prweb.com/releases/2017/07/prweb14515010.htm/
+23 MacBride, K. (2017, April 18). Can Virtual Reality Help Cure PTSD? Rolling Stone.
+http://www.rollingstone.com/culture/features/can-virtual-reality-help-cure-ptsd-w477388/
+References
+74 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+TREND 3
+1 Gallagher, S. (2017, September 18). Soviet Air Defense Officer who Saved the World Dies at age 77. Ars Technica.
+https://arstechnica.com/tech-policy/2017/09/soviet-air-defense-officer-who-saved-the-world-dies-at-age-77/
+2 Bennetts, M. (2017, September 18). Soviet Officer who Averted Cold War Nuclear Disaster Dies Aged 77. The Guardian.
+http://www.theguardian.com/world/2017/sep/18/soviet-officer-who-averted-cold-war-nuclear-disaster-dies-aged-77
+3 Goepfert, J. (2017, March 14). Big Data and Business Analytics Revenues Forecast to Reach $150.8 Billion This Year,
+Led by Banking and Manufacturing Investments, According to IDC. IDC (Doc #US42371417).
+https://www.idc.com/getdoc.jsp?containerId=prUS42371417
+4 Nagle, T., Redman, T. C., & Sammon, D. (2017, September 11). Only 3% of Companies’ Data Meets Basic Quality Standards.
+Harvard Business Review. https://hbr.org/2017/09/only-3-of-companies-data-meets-basic-quality-standards
+5 Daquila, M. (2017, June) Worldwide Semiannual Cognitive/Artificial Intelligence Systems Spending by Industry Market
+2016–2020 Forecast. IDC (Doc # US42749817). http://www.idc.com/getdoc.jsp?containerId=US42749817
+6 Worldwide Spending on the Internet of Things Forecast to Reach Nearly $1.4 Trillion in 2021, According to New IDC
+Spending Guide. (2017, June 14). http://www.idc.com/getdoc.jsp?containerId=prUS42799917
+7 Pletz, J. (2016, December 10). How Outmoded Technology Is Clipping United’s Wings. Crain’s Chicago Business.
+http://www.chicagobusiness.com/article/20161210/ISSUE01/312109994/how-outmoded-technologyis-
+clipping-uniteds-wings
+8 Weill, K. (2017, October 29). Lawsuit: Indiana Purging Voters Using Software That’s 99% Inaccurate. The Daily Beast.
+https://www.thedailybeast.com/lawsuit-indiana-purging-voters-using-software-thats-99-inaccurate
+9 Goel, S., Meredith, M., Morse, M., Rothschild, D., & Shirani-Mehr, H. (2017, October 24).
+One Person, One Vote: Estimating the Presence of Double Voting in U.S. Presidential Elections.
+https://www.dropbox.com/s/fokd83nn4x6wuw9/OnePersonOneVote.pdf
+10 Conner-Simons, A. (2016, April 18). System Predicts 85 Percent of Cyber-Attacks Using Input from Human Experts. MIT News.
+http://news.mit.edu/2016/ai-system-predicts-85-percent-cyber-attacks-using-input-human-experts-0418
+11 Lo, C. (2017, August 14). How an AI-Driven Industrial Immune System Could Protect Oil & Gas from Cyber Attacks.
+Offshore Technology. http://www.offshore-technology.com/features/featurehow-an-ai-driven-industrial-immunesystem-
+could-protect-oil-gas-from-cyber-attack-5897949/
+12 Clark, S. (2015, May 4). SpaceX Preps for Test of Dragon Capsule’s Life-Saving Abort System – Spaceflight Now.
+https://spaceflightnow.com/2015/05/04/spacex-preps-for-test-of-dragon-capsules-life-saving-abort-system/
+13 Svitak, A. (2012, November 19). Dragon’s “Radiation-Tolerant” Design. Aviation Week.
+http://aviationweek.com/blog/dragons-radiation-tolerant-design
+14 Liu, X., Nourbakhsh, A., Li, Q., & Fang, R., Shah, S. (2015, October 18). Real-Time Rumor Debunking on Twitter.
+http://dx.doi.org/10.1145/2806416.2806651
+15 Vincent, J. (2017, July 12). Google Is Using Machine Learning to Sort Good Apps from Bad on the Play Store. The Verge.
+https://www.theverge.com/2017/7/12/15958372/google-machine-learning-ai-app-store-malware-security
+16 Jones, N. (2017, August 2). Uber Drivers Are Gaming the System and Even Going Offline en Masse to Force “Surge”
+Pricing. University of Warwick News. http://www2.warwick.ac.uk/newsandevents/pressreleases/uber_drivers_are/
+17 Digital Advertising Spending Worldwide from 2015 to 2020. (2017).
+https://www.statista.com/statistics/237974/online-advertising-spending-worldwide/
+18 Useem, J. (2017, May). How Online Shopping Makes Suckers of Us All. The Atlantic.
+https://www.theatlantic.com/magazine/archive/2017/05/how-online-shopping-makes-suckers-of-us-all/521448/
+19 Thompson, C. (2015, November 21). How to Baffle Web Trackers by Obfuscating Your Movements Online. Wired.
+https://www.wired.com/2015/11/clive-thompson-10/
+20 Conger, K. (2016, June 1). Amazon Sues Sellers for Buying Fake Reviews. TechCrunch.
+http://social.techcrunch.com/2016/06/01/amazon-sues-sellers-for-buying-fake-reviews/
+21 Weise, E. (2017, March 20). That Review You Wrote on Amazon? Priceless. USA Today.
+https://www.usatoday.com/story/tech/news/2017/03/20/review-you-wrote-amazon-priceless/99332602/
+22 Evtimov, I., Eykholt, K., Fernandes, E., Kohno, T., Li, B., Prakash, A., Rahmati, A., & Song, D. (2017).
+Robust Physical-World Attacks on Deep Learning Models. http://arxiv.org/abs/1707.08945
+References
+75 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+TREND 4
+1 GE and Microsoft Partner to Bring Predix to Azure, Accelerating Digital Transformation for Industrial Customers.
+(2016, July 11). Microsoft press release. https://news.microsoft.com/2016/07/11/ge-and-microsoft-partner-to-bringpredix-
+to-azure-accelerating-digital-transformation-for-industrial-customers/
+2 Members – Hyperledger. (n.d.). https://www.hyperledger.org/members
+3 Campbell, P. (2017, September 27). Ford Signs Deal with Lyft for Self-Driving Taxis by 2021. Financial Times.
+https://www.ft.com/content/5599dec2-a365-11e7-9e4f-7f5e6a7c98a2
+4 Amazon and Nike’s Partnership Could Mean the End of Big Brands. (2017, July 19). Forbes. https://www.forbes.com/sites/
+quora/2017/07/19/amazon-and-nikes-partnership-could-mean-the-end-of-big-brands/#20f91fba3864
+5 Felsted, A. (2017, July 3). Instagram and Nike Reach for Fashion’s Holy Grail. Bloomberg.com.
+https://www.bloomberg.com/news/articles/2017-07-03/instagram-and-nike-want-to-show-fashionistas-how-to-shop
+6 Adidas Partners with Siemens to Tailor Sporting Goods. (2017, April 24). Reuters. https://www.reuters.com/article/
+us-adidas-siemens-production/adidas-partners-with-siemens-to-tailor-sporting-goods-idUSKBN17Q1U8
+7 Woolf, J. (2017, October 5). Adidas Is Changing the Way It Makes Sneakers—Again. GQ.
+https://www.gq.com/story/adidas-made-for-london-speedfactory
+8 Glaser, A. (2016, September 27). This Is the First Adidas Shoe Made Almost Entirely by Robots. Recode.
+https://www.recode.net/2016/9/27/13065822/adidas-shoe-robots-manufacturing-factory-jobs
+9 Dignan, L. (2017, January 3). Under Armour at CES Highlights Digital Transformation Efforts as Clothing, Wearables,
+Apps, Data Merge. ZDNet. http://www.zdnet.com/article/under-armour-at-ces-highlights-digital-transformation-efforts/
+10 Kokalitcheva, K. (2016, February 6). Under Armour CEO Sees Technology As Company’s UDestiny. Fortune.
+http://fortune.com/2016/02/05/under-armour-tech-company/
+11 Apigee. (2017, January 19). How Walgreens Uses Microservices. https://www.youtube.com/watch?v=8Cf-IfMfHkg
+12 Balance Rewards for Healthy Choices—Walgreens. (n.d.). https://www.walgreens.com/steps/
+13 Endler, M. (2017, May 5). Walgreens: Expanding Customer Loyalty with Microservices. CIO.
+https://www.cio.com/article/3194344/analytics/walgreens-expanding-customer-loyalty-with-microservices.html
+14 Walters, N. (2017, July 21). Foursquare Eyes Amazon Alexa Partnership As Its Tech Is Quietly
+Built Into Snapchat and Apple Maps The Street. https://www.thestreet.com/story/14237363/1/
+foursquare-eyes-amazon-alexa-partnership-as-its-tech-is-quietly-built-into-snapchat-and-apple-maps.html
+15 Lynley, M. (2016, May 9). How Foursquare Hopes to Hit Profitability. TechCrunch.
+http://social.techcrunch.com/2016/05/09/how-foursquare-hopes-to-hit-profitability/
+16 Sequoia—Innovate or Die: The Rise of Microservices. (n.d.). https://www.sequoiacap.com/article/build-us-microservices/
+17 Partial Failures in a Microservices Jungle: Survival Tips from Comcast. (2015, February 23). QCon New York.
+https://qconnewyork.com/ny2015/presentation/partial-failures-microservices-jungle-survival-tips-comcast
+18 AWS re:Invent 2015 Keynote—Rob Alexander, CIO, Capital One. (2015, October 13).
+https://www.youtube.com/watch?v=0E90-ExySb8
+19 Microservices Architecture Market Research Report-Global Forecast 2023. (2018, January). Market Research Future.
+https://www.marketresearchfuture.com/reports/microservices-architecture-market-3149
+20 Mendonca, J., & Christopher, N. (2017, January 25). Big Banks Plan Interbank Blockchain Platform. The Economic Times.
+http://economictimes.indiatimes.com/industry/banking/finance/banking/big-banks-plan-interbank-blockchain-platform/
+articleshow/56770736.cms
+21 What every CEO should know about blockchain—Accenture Outlook. (2016).
+https://www.accenture.com/us-en/insight-outlook-executives-guide-to-blockchain
+22 Nestle, Unilever, Tyson and Others Team with IBM on Blockchain. (2017, August 22). Reuters. https://www.reuters.com/
+article/us-ibm-retailers-blockchain/nestle-unilever-tyson-and-others-team-with-ibm-on-blockchain-idUSKCN1B21B1
+23 IBM Forges Blockchain Collaboration with Nestlé & Walmart in Global Food Safety. (2017, August 22). Forbes.
+https://www.forbes.com/sites/rogeraitken/2017/08/22/ibm-forges-blockchain-collaboration-with-nestlewalmart-
+for-global-food-safety/#1317eb13d361
+24 X-Road. (n.d.). https://e-estonia.com/solutions/interoperability-services/x-road/
+25 Filament Receives $15M in New Funding for Industrial IoT. (2017, March 30). Business Wire.
+http://www.businesswire.com/news/home/20170330005189/en/Filament-Receives-15M-New-Funding-Industrial-IoT
+26 17 Blockchain Disruptive Use Cases. (2016, May 31). Everis Next.
+https://everisnext.com/2016/05/31/blockchain-disruptive-use-cases/
+27 Kelly, L. (2017, September 6). Blockchain “Smart Grid” to Be Tested in Fukushima. BTC Manager.
+https://btcmanager.com/blockchain-smart-grid-tested-fukushima/
+28 Provenance—For Business. (n.d.). https://www.provenance.org/how-it-works
+References
+76 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+TREND 5
+1 Seipel, T. (2017, April 10). Epilepsy Breakthrough: Silicon Valley Firm’s Implant Helps Stop Brain Seizures. Mercury News.
+http://www.mercurynews.com/2017/04/10/epilepsy-breakthrough-silicon-valley-firms-implant-helps-stop-brain-seizures/
+2 Strickland, E. (2017, March 7). In Hospital ICUs, AI Could Predict Which Patients Are Likely to Die. IEEE Spectrum.
+https://spectrum.ieee.org/the-human-os/biomedical/diagnostics/in-hospital-intensive-care-units-ai-could-predictwhich-
+patients-are-likely-to-die
+3 Microsoft’s Judson Althoff on the Promise of the Cloud. (2017, March 6). Wall Street Journal.
+https://www.wsj.com/articles/microsofts-judson-althoff-on-the-promise-of-the-cloud-1488855901
+4 Talluri, R. (2016, December 19). How Edge Compute Is Making Cameras “Conscious.” Network World.
+https://www.networkworld.com/article/3150867/internet-of-things/how-edge-compute-is-making-cameras-conscious.html
+5 Jain, S. (2017, September 19). Painting the Town Smart: NVIDIA Launches Metropolis Software Partner Program. NVIDIA Blog.
+https://blogs.nvidia.com/blog/2017/09/19/metropolis-software-partner-program/
+6 Daegu Gyeongbuk Institute of Science and Technology. (n.d.). “Electronic Skin” Takes Wearable Health Monitors to the
+Next Level: A Soft, Stick-On Patch Collects, Analyzes and Wirelessly Transmits a Variety of Health Metrics from the Body
+to a Smartphone. Science Daily. https://www.sciencedaily.com/releases/2017/08/170821094309.htm
+7 Camhi, J. (2016, June 30). Edge Computing in the IoT: Forecasts, Key Benefits, and Top Industries Adopting an
+Analytics Model that Improves Processing and Cuts Costs. Business Insider. https://intelligence.businessinsider.com/
+edge-computing-in-the-iot-forecasts-key-benefits-and-top-industries-adopting-an-analytics-model-that-improvesprocessing-
+and-cuts-costs-2016-6
+8 Shacklett, M. (2017, July 21). Edge Computing: The Smart Person’s Guide. TechRepublic.
+http://www.techrepublic.com/article/edge-computing-the-smart-persons-guide/
+9 Pereira, P. (2017, February 14). Edge vs. Central IT: Where Do My Apps and Services Belong?
+https://www.hpe.com/us/en/insights/articles/2017/02/edge-vs-central-it-where-do-my-apps-and-services-belong.html
+10 Ferrar, B. (2017, May 3). The “New” Big Data for Manufacturing! Cisco Blog.
+https://gblogs.cisco.com/ca/2017/05/03/the-new-big-data-for-manufacturing/
+11 FANUC to Build Factory of the Future Using NVIDIA AI Platform. (2016, October 4). NVIDIA News.
+http://nvidianews.nvidia.com/news/fanuc-to-build-factory-of-the-future-using-nvidia-ai-platform
+12 How Fanuc’s FIELD Platform Is Poised to Change Automation. (2016, November 14). Manufacturing Automation.
+https://www.automationmag.com/technology/robotics/6540-how-the-fanuc-intelligent-edge-link-and-drive-fieldplatform-
+is-poised-to-change-automation
+13 Bigelow, B. (2017, August 21). Nvidia Joins $20M Deal in Chinese Self-Driving Startup TuSimple. Xconomy.
+http://www.xconomy.com/san-diego/2017/08/21/nvidia-joins-20m-deal-in-chinese-self-driving-startup-tusimple/
+14 Worldwide Spending on Augmented and Virtual Reality Expected to Double or More Every Year Through 2021,
+According to IDC. (2017, August 3). IDC (Doc #US42959717). https://www.idc.com/getdoc.jsp?containerId=prUS42959717
+15 Bright, P. (2016, August 23). Microsoft Sheds Some Light on its Mysterious Holographic Processing Unit. Ars Technica.
+https://arstechnica.com/information-technology/2016/08/microsoft-sheds-some-light-on-its-mysteriousholographic-
+processing-unit/
+16 Metz, C. (2017, April 5). Building an AI Chip Saved Google from Building a Dozen New Data Centers. Wired.
+https://www.wired.com/2017/04/building-ai-chip-saved-google-building-dozen-new-data-centers/
+17 Moyen, M. (2017, August 29). Microsoft’s Project Brainwave Might Be Better Than Google’s Cloud TPU. Seeking Alpha.
+https://seekingalpha.com/article/4102690-microsofts-project-brainwave-might-better-googles-cloud-tpu
+References
+77 Technology Vision 2018 Intelligent Enterprise Unleashed #TechVision2018
+Copyright © 2018 Accenture
+All rights reserved.
+Accenture, its logo, and
+High Performance Delivered
+are trademarks of Accenture.
+This document makes descriptive reference to trademarks that may be owned by others. The use of such
+trademarks herein is not an assertion of ownership of such trademarks by Accenture and is not intended
+to represent or imply the existence of an association between Accenture and the lawful owners of such
+trademarks. Information regarding third-party products, services and organizations was obtained from
+publicly available sources, and Accenture cannot confirm the accuracy or reliability of such sources
+or information. Its inclusion does not imply an endorsement by or of any third party.
+The views and opinions in this article should not be viewed as professional advice with respect
+to your business.
+ABOUT ACCENTURE
+Accenture is a leading global professional services company, providing a broad range of
+services and solutions in strategy, consulting, digital, technology and operations. Combining
+unmatched experience and specialized skills across more than 40 industries and all business
+functions—underpinned by the world’s largest delivery network—Accenture works at the
+intersection of business and technology to help clients improve their performance and create
+sustainable value for their stakeholders. With approximately 435,000 people serving clients
+in more than 120 countries, Accenture drives innovation to improve the way the world works
+and lives. Visit us at www.accenture.com
+ABOUT ACCENTURE LABS
+Accenture Labs incubate and prototype new concepts through applied R&D projects that are
+expected to have a significant near-term impact on clients’ businesses. Our dedicated team
+of technologists and researchers work with leaders across the company to invest in, incubate
+and deliver breakthrough ideas and solutions that help our clients create new sources of
+business advantage. Accenture Labs is located in seven key research hubs around the world:
+Bangalore, India; Beijing, China; Dublin, Ireland; Silicon Valley, California; Sophia Antipolis,
+France; Washington D.C.; and Israel.
+ABOUT ACCENTURE RESEARCH
+Accenture Research shapes trends and creates data-driven insights about the most pressing
+issues global organizations face. Combining the power of innovative research techniques
+with a deep understanding of our clients’ industries, our team of 250 researchers and analysts
+spans 23 countries and publishes hundreds of reports, articles and points of view every year.
+Our thought-provoking research—supported by proprietary data and partnerships with leading
+organizations such as MIT and Singularity—guides our innovations and allows us to transform
+theories and fresh ideas into real-world solutions for our clients.
